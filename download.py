@@ -8,7 +8,7 @@ from html.parser import HTMLParser
 CEDAE_page_URL = 'https://cedae.com.br/relatoriosguandu'
 CEDAE_page_encoding = 'utf8'
 CEDAE_page_keywords = ['GEOSMINA']
-CEDAE_pdfs_output_dir = 'pdfs'
+CEDAE_pdf_output_dir = 'pdf'
 
 print('Requesting \'%s\'' % CEDAE_page_URL)
 with urllib.request.urlopen(CEDAE_page_URL) as fp:
@@ -54,7 +54,7 @@ scrapper.feed(CEDAE_data_Unicode)
 scrapped_URLs = scrapper.get_URLs()
 
 try:
-    os.mkdir(CEDAE_pdfs_output_dir)
+    os.mkdir(CEDAE_pdf_output_dir)
 except FileExistsError:
     pass
 
@@ -65,7 +65,7 @@ for scrapped_URL in scrapped_URLs:
     with urllib.request.urlopen(scrapped_URL) as infp:
         parsed_URL = urllib.parse.urlparse(scrapped_URL)
         filename = os.path.basename(parsed_URL.path).replace('%20', ' ')
-        filepath = os.path.sep.join([CEDAE_pdfs_output_dir, filename])
+        filepath = os.path.sep.join([CEDAE_pdf_output_dir, filename])
         print('Writing to \'%s\'' % filepath)
         with open(filepath, 'wb') as outfp:
             outfp.write(infp.read())

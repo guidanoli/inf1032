@@ -1,1 +1,1 @@
-# Converts all data from the pdf/ folder to csv
+# Converts all data from the pdf/ folder to the csv/ folder
