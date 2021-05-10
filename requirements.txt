@@ -1,4 +1,4 @@
-notebook
-matplotlib
-ipympl
-tabula-py
+ipympl==0.7.0
+matplotlib==3.4.2
+notebook==6.3.0
+tabula-py==2.2.0
