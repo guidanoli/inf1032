@@ -1,3 +1,4 @@
-ipython==7.10.0
 notebook
+matplotlib
+ipympl
 tabula-py
