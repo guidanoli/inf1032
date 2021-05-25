@@ -1,0 +1,1302 @@
+date,code,address,neighbourhood,municipality,collection-point,taste,odor
+2020-02-13,Túnel Canal,Avenida Edson Passos,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,2
+2020-02-13,RJ 09-A5,Avenida das Américas,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-13,RJ 12-A7,Rua Arquias Cordeiro,Méier,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-13,RJ 15-A9,Avenida Maracanã,Maracanã,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-13,RJ 03-A25,Avenida Delfim Moreira,Leblon,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 10-A16,Rua Bucareste,Vigário Geral,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,Túnel Canal,Avenida Edson Passos,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,1
+2020-02-14,RJ 17-A1,Rua Estácio de Sá,Estácio,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 17-A4,Rua Amoroso Lima,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 17-A5,Rua do Santana,Centro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 17-A17,Rua Carmo Neto,Santo Cristo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 17-A20,Rua Guaicurus,Rio Comprido,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 15-A21,Boulevard Vinte e Oito de Setembro,Vila Isabel,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 15-A30,Rua Itabaiana,Grajaú,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 03-P9,Rua Pacheco Leão,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 15-A31,Avenida Júlio Furtado,Grajaú,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,RJ 15-A39,Rua Barão de Mesquita,Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 15-A19,Travessa Doutor Araujo,Praça da Bandeira,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 08-P1,Rua Eng Alvaro Niemeyer,São Conrado,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 03-P18,Rua Vice-Governador Rúbens Berardo,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 16-P1,Rua Batista Da Costa,Lagoa,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 16-P6,Rua Alberto De Campos,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 16-R26,Rua Gustavo Sampaio,Leme,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ 16-P27,Avenida Atlântica,Copacabana,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-14,RJ 16-P31,Rua Manuel Niobei,Urca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,RJ 16-P34,Av. Reporter Nestor Moreira,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,RJ 18-P4,Rua Andrade Pertence,Catete,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,RJ 18-P8,Rua Do Russel,Glória,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,RJ 14-A1,Estrada da Matriz,Pedra de Guaratiba,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,INT 06-A20,Rua Serinhaem,Barros Filho,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,INT 06-A14,Rua Moçambique,Rocha Miranda,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,INT 06-A1,Rua Guaiuba,Acari,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,INT 06-A29,Rua João Vicente,Deodoro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-02-14,INT 06-A25,Rua Salema,Ricardo de Albuquerque,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-14,INT 06-A3,Rua Ouseley,Coelho Neto,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,INT 06-A24,Estrada Marechal Alencastro,Anchieta,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-14,INT 06-A22,Estrada João Paulo,Honório Gurgel,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,INT 09-A3,Rua Amisterdam,Bangu,Rio de Janeiro,Rede de Distribuição,1,2
+2020-02-14,SA 1052/20A,Praça Rosária Trotta,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ-17 P14,Avn N S De Fatima,Bairro de Fátima,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-14,RJ-17 P15,Rua Lapa,Lapa,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-15,BX-05 P04,Rua Eugênio de Menezes,Venda Velha - São João de Meriti,São João de Meriti,Rede de Distribuição,2,2
+2020-02-15,BX-05 P18,Avenida Getulio de Moura,Centro - São João de Meriti,São João de Meriti,Rede de Distribuição,2,2
+2020-02-16,BX-01 P05,Avenida Coelho da Rocha,Centro - Belford Roxo,Belford Roxo,Rede de Distribuição,2,1
+2020-02-16,BX-01 P13,Rua Retiro da Imprensa,Vila Heliopolis - Belford Roxo,Belford Roxo,Rede de Distribuição,2,1
+2020-02-17,INT-05 P14,Avenida Oliveira Belo,Vila da Penha,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,INT-05 P17,Avenida Meriti,Vila Kosmos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,INT-05 P21,Rua Honorio de Almeida,Irajá,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,INT-05 P25,Estrada Colégio,Colégio,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,INT-05 P29,Avenida Monsenhor Felix,Vaz Lobo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-04 P06,Rua Carolina Santos,Lins de Vasconcelos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-04 P03,Rua Marques de Leão,Engenho Novo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-04 P19,Rua Pernambuco,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-04 P22,Rua Paraná,Piedade,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-04 P29,Rua Nerval de Gouvea,Quintino Bocaiuva,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-06 P03,Estrada Covanca,Tanque,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-06 P04,Rua Professor Henrique Costa,Pechincha,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-06 P11,Rua Padre Ventura,Taquara,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-06 P14,Rua André Rocha,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-07 P01,Estrada Lameirão,Santissimo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-17,RJ-07 P02,Estrada Viegas,Senador Camara,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,MQ-SP Disp,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-18,MQ-SP Conc,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-18,RJ-09 P04,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-09 P13,Rua Mario Faustino,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-18,RJ-09 P15,Rua Haroldo Cavalcanti,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-09 P19,Rua Murilo Araujo,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-09 P18,Rua Professor Motta Maia,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-09 P17,Rua Jorge Yunes,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P11,Rua Einsten,Itanhangá,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P12,Rua Major Rolinda da Silva,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P15,Avenida Armando Lombardi,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P23,Avenida do Pepe,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P24,Rua General Sidônio Dias Correa,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P26,Rua General Ivan Raposo,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,RJ-08 P27,Avenida Afonso Taunay,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-18,BX-02 P03,Rua Garibalde,Jardim 25 de Agosto - Duque de,Duque de Caxias,Rede de Distribuição,2,2
+2020-02-18,BX-02 P11,Rua Alcindo Guanabara,Parque Felicidade - Duque de Caxias,Duque de Caxias,Rede de Distribuição,2,2
+2020-02-18,BX-03 P10,Rua Dr Heitor Da Costa Val,Centro - Mesquita,Mesquita,Rede de Distribuição,2,2
+2020-02-18,BX-03 P11,Rua Casulo,Centro - Mesquita,Mesquita,Rede de Distribuição,2,2
+2020-02-18,BX-04/2 P03,Rua João Pessoa,Olinda - Nilópolis,Nilópolis,Rede de Distribuição,2,2
+2020-02-18,BX-04/2 P08,Rua Coronel França Leite,Cabral - Nilópolis,Nilópolis,Rede de Distribuição,2,2
+2020-02-19,RS-CN,Reservatório Caixa Nova,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,2
+2020-02-19,RS-ED,Reservatório Eng. de Dentro,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,2,1
+2020-02-19,RS-PD,Reservatório Pedregulho,Benfica,Rio de Janeiro,Macro Distribuição,2,2
+2020-02-19,RS-MC,Reservatório - Macacos,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,2
+2020-02-19,INT-11  P09,Rua Luiz Coutinho Cavalcanti,Guadalupe,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-19,INT-11  P13,Rua Marina,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-19,INT-11  P25,Rua Alexandre Gasparoni,Marechal Hermes,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-19,BX-06  P06,Rua Savero Jose Bruno,Aero Clube - Nova Iguaçu,Nova Iguaçu,Rede de Distribuição,2,2
+2020-02-19,BX-06 P30,Rua Dr Barros Junior,Centro - Nova Iguaçu,Nova Iguaçu,Rede de Distribuição,2,2
+2020-02-19,RJ-14 P09,Pra Reconcavo,Sepetiba,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-19,RJ-14 P21,Etr Paciencia,Santa Cruz,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,MQ-SP Disp.,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,MQ-SP Conc.,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,INT-03 P06,Rua Betula,Guadalupe,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,INT-03 P19,Rua Caiena,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,INT-03 P29,Rua Marape,Honório Gurgel,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-20,RJ-13 P02,Rua Olimpia Esteves,Padre Miguel,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-13 P11,Rua Pedro Gomes,Realengo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-13 P21,Estrada Manoel Nogueira de Sá,Bangu,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-13 P25,Rua Teodoro Sampaio,Jardim Sulacap,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P02,Pra Jacarandas,Lagoa,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P08,Rua Inglês de Souza,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P11,Avenida Rodrigo Otávio,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P14,Rua Oitis,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P15,Rua Marques de São Vicente,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P19,Rua Codajás,Leblon,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P20,Rua Timoteo da Costa,Leblon,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-20,RJ-03 P27,Rua Cupertino Durão,Leblon,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-03 P28,Rua Mario Ribeiro,Leblon,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P07,Rua Barão da Torre,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P08,Rua Vinicius de Moraes,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P10,Rua Prudente de Moraes,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P12,Rua Francisco Sá,Copacabana,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-20,RJ-16 P15,Avenida Atlântica,Copacabana,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P17,Ladeira Tabajaras,Copacabana,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P23,Rua Gustavo Sampaio,Leme,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-20,RJ-16 P24,Rua General Ribeiro da Costa,Leme,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P28,Rua Ramon Franco,Urca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-20,RJ-16 P33,Avenida Pasteur,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,RJ-12 P01,Rua Miguel Angelo,Maria da Graça,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,RJ-12 P11,Rua Cachambi,Cachambi,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,RJ-12 P13,Rua José Bonifácio,Todos os Santos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,RJ-12 P15,Rua Luiz Silva,Abolição,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,RJ-12 P17,Rua Glaziou,Pilares,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,INT-04 P01,Rua Silva Gomes,Cascadura,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,INT-04 P05,Rua Atila Da Silveira,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,INT-04 P06,Etr Portela,Madureira,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-21,RJ-04 P29,Rua Nerval De Gouvea,Quintino Bocaiuva,Rio de Janeiro,Rede de Distribuição,2,3
+2020-02-21,Concentração 20:30,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-21,Dispersão - 20:00,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,Concentração 00:00,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,Dispersão - 00:30,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,Concentração 04:00,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-22,Dispersão - 04:00,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,Concentração 22h,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,Dispersão - 19:58,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,Concentração 02:34,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,Dispersão - 02:15,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,Concentração 04:15,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,Dispersão - 04:30,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,Concentração 18:00,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-23,Dispersão - 18:30,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,Concentração 00:00,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,Dispersão - 00:30,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,Concentração 04:00,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,Dispersão - 04:00,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,Concentração 18:32,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,Dispersão - 18:53,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,Concentração 01:20,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,Dispersão - 00:55,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,Concentração 03:30,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-25,Dispersão - 03:02,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,Concentração 16:30,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,Concentração 22:00,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-29,Concentração 20:40,Rua Marquês de Sapucaí - Concentração,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-29,Dispersão - 20:15,Rua Marquês de Sapucaí - Dispersão,Cidade Nova,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,ZS-MC 1,Avenida Glaucio Gil,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,ZS-MC 2,Avenida das Américas,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,ZS-MC 3,Avn Pref Mendes De Moraes,São Conrado,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-22,ZS-MC 4,Rua General Artigas,Leblon,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-23,ZS-MC 1,Avenida Glaucio Gil,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,ZS-MC 2,Avenida das Américas,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-23,ZS-MC 3,Avn Pref Mendes De Moraes,São Conrado,Rio de Janeiro,Rede de Distribuição,2,1
+2020-02-24,ZS-MC 1,Avenida Glaucio Gil,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,ZS-MC 2,Avenida das Américas,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-24,ZS-MC 3,Avn Pref Mendes De Moraes,São Conrado,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,ZS-MC 1,Avenida Glaucio Gil,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,ZS-MC 2,Avenida das Américas,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-02-25,ZS-MC 3,Avn Pref Mendes De Moraes,São Conrado,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-02,RJ-18 - P04,Rua Andrade Pertence,Catete,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-02,RJ-18 - P07,Rua Antonio Mendes Campos,Glória,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-02,RJ-18 - P13,Rua Dom Gerardo,Centro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-02,RJ-18 - P20,Rua Waldemar Dutra,Santo Cristo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-02,BX-05 - P03,Avn João De Deus Menezes,N S Ant - São João de Meriti,São João de Meriti,Rede de Distribuição,2,2
+2020-03-02,BX-05 - P12,Rua Santo Antonio,Fluminense - São João de Meriti,São João de Meriti,Rede de Distribuição,2,2
+2020-03-03,BX-03 P11,Rua Casulo,Centro - Mesquita,Mesquita,Rede de Distribuição,2,2
+2020-03-03,BX-03 P15,Trv União,Centro - Mesquita,Mesquita,Rede de Distribuição,2,2
+2020-03-03,BX-04/1 P01,Rua Pres Gal Craveiro Lopes,Olinda - Nilópolis,Nilópolis,Rede de Distribuição,2,2
+2020-03-03,BX-04/1 P12,Rua Ver Jose Fortes,Centro - Nilópolis,Nilópolis,Rede de Distribuição,2,2
+2020-03-03,BX-02 P01,Rdv Washington Luiz,Duque de Caxias,Duque de Caxias,Rede de Distribuição,2,2
+2020-03-03,BX-02 P25,Rua Euclides Cunha,Centenário - Duque de Caxias,Duque de Caxias,Rede de Distribuição,2,2
+2020-03-04,Túnel Canal,Avenida Edson Passos,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,2
+2020-03-04,SA 1078/20,Rua Prof Henrique Costa,Pechincha,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1097/20,Rua Jose Colares Moreira,Taquara,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1159/20,Rua Cembira,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1005/20A,Rua Guilhermina,Encantado,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1165/20,Rua Benjamim Magalhaes,Pilares,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1166/20,Rua Enaldo Cravo Peixoto,Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1168/20,Rua Ailson Simoes,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1174/20,Rua Zamenhof,Estácio,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1182/20,Rua Bucareste,Vigário Geral,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1197/20,Rua Fortunato De Brito,Freguesia,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-04,SA 1185/19E,Rua Olegario Mariano,Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-05,SA 1213/20,Rua Alvaro Ramos,Botafogo - Band News,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-05,RJ-02 P20,Rua Arnaldo Quintela,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-05,RJ-02 P21,Rua Rodrigo De Brito,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-05,RJ-02 P22,Rua Assis Bueno,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-05,RJ-02 P24,Rua Passagem,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-12 P01,Rua Miguel Angelo,Maria da Graça,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-12 P08,Rua Miguel Fernandes,Méier,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-12 P05,Rua Ferreira De Andrade,Cachambi,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-12 P15,Rua Luiz Silva,Abolição,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-12 P20,Avn Joao Ribeiro,Pilares,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-12 P25,Rua Divino Salvador,Piedade,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,BX-06 P01,Avn Dr Salles Teixeira,Aero Clube - Nova Iguaçu,Nova Iguaçu,Rede de Distribuição,2,2
+2020-03-06,BX-06 P02,Avn Dr Salles Teixeira,Aero Clube - Nova Iguaçu,Nova Iguaçu,Rede de Distribuição,2,2
+2020-03-06,RJ-15 P83,Rua Juiz de Fora,Grajaú,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1221/20,Rua Visc De Santa Isabel,Vila Isabel,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1233/20,Rua Eduardo de Sá,Higienópolis,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 525/20- A,Rua Eng Miranda Ribeiro,Realengo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 932/20,Etr. Da Barra de Guaratiba,Barra de Guaratiba,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1124/20,Rua Visc De Araguaia,Santa Cruz,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1199/20,Estrada Santa Eugênia,Paciência,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1134/20,Rua Tronco Do Ipe,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1208/20,Rua Panama,Penha,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1228/20,Etr Guandu Do Sena,Bangu,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,ILHA-02 P02,Pra Jequia,Ribeira,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,ILHA-02 P07,Rua Formosa Do Zumbi,Zumbi,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,ILHA-02 P21,Rua Amapurus,Taua,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,AA-01,Etr. Santa Cruz,Senador A Vasconcellos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-09 P06,Rua Dr Crespo,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-09 P17,Rua Jorge Yunes,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-09 P16,Rua Joaquim Cardoso,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-02 P30,Rua Miguel Pereira,Humaitá,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-03 P10,Rua Alberto Ribeiro,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,RJ-16 P15,Avn Atlantica,Copacabana,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 690/20,Rua Sta Cristina,Santa Teresa,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-06,SA 1236/20,Rua Justino De Sousa,São Cristóvão,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-09,RJ-01 P04,Rua Geminiano Gois,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-09,RJ-01 P07,Avn Geremario Dantas,Tanque,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-09,RJ-01 P08,Etr Tres Rios,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-09,SA 760/20,Rua Andrade Araujo,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-09,SA 829/20,Rua Vaz Lobo,Vaz Lobo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-09,SA 832/20,Rua Ferreira Cantao,Irajá,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-09,SA 849/20,Rua Prof Paula Aquiles,Vila da Penha,Nova Iguaçu,Rede de Distribuição,2,1
+2020-03-09,SA 1080/20,Rua Parauna,Ricardo de Albuquerque,Nova Iguaçu,Rede de Distribuição,3,2
+2020-03-09,SA 1139/20,Avn Sao Felix,Vista Alegre,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-10,RJ-16 P04,Avn Epitacio Pessoa,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-10,RJ-16 P08,Rua Vinicius De Moraes,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-10,RJ-16 P23,Rua Gustavo Sampaio,Leme,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-10,RJ-16 P34,Avn Pasteur,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-10,SA 1265/20,Rua Benjamin Constant,Glória,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,Túnel Canal,Avenida Edson Passos,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,2
+2020-03-11,SA 1191/20,Rua Itaquera,Inhaúma,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,SA 1277/20,Rua Irapua,Penha Circular,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,INT-02 P03,Rua Miltom,Ramos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,INT-02 P20,Rua Montevideo,Penha,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,INT-02 P27,Rua Angatuba,Braz de Pina,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-15 P04,Rua Bom Pastor,Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-15 P10,Rua Visc De Itamarati,Maracanã,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-15 P21,Blv Vinte E Oito De Setembro,Vila Isabel,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-15 P27,Rua Barao Do Bom Retiro,Grajaú,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-15 P30,Rua Itabaiana,Grajaú,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-15 P36,Rua Leopoldo,Andaraí,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-07 P01,Etr Lameirao,Santíssimo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-07 P02,Etr Viegas,Senador Camara,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,RJ-07-P19,Rua Augusto De Vasconcelos,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-11,RJ-07 P24,Avn Joaquim Magalhaes,Sen A Vasconcelos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-11,SA 998/20,Estrada Cabuçu,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-11,SA 1170/20,Rua Artur Rios,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,SA 1303/20,Rua Paim Pamplona,Sampaio,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-12,SA 1249/20,Rua Jose Dos Reis,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-12,SA 1112/20,Trv Cassiano,Santa Teresa,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-12,SA 1307/20,Avn Henrique Dumont,Ipanema,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,RJ-03 P18,Avn Padre Leonel Franca,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,RJ-14 P03,Prc Vila Formosa,Pedra de Guaratiba,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,RJ-14 P25,Etr Grama,Guaratiba,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-12,SA 88/20A,Rua Marques De São Vicente,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,SA 926/20A,Rua José Fernandes,Sepetiba,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,SA 1130/20,Rua Tupitinga,Cosmos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,SA 1162/20,Rua Embaix Moniz Gordilho,Inhoaiba,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-12,SA 1222/20,Prc Gado,Santa Cruz,Rio de Janeiro,Rede de Distribuição,2,1
+2020-03-12,SA 1254/20,Rua Das Acacias,Gávea,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,RJ-08 P11,Rua Einstein,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,RJ-08 P23,Avn Do Pepe,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,RJ-08 P27,Avn Afonso Taunay,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 1207/20,Rua Pompeu Loureiro,Copacabana,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 1243/20,Rua Sao Clemente,Botafogo,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 1272/20,Rua Duvivier,Copacabana,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 1152/20A,Avn Braz De Pina,Braz de Pina,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 436/20A,Rua Jose Bonifacio,Todos os Santos,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 1301/20,Rua Fabio Luz,Méier,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,SA 1270/20,Rua Columbia,Quintino Bocaiuva,Rio de Janeiro,Rede de Distribuição,2,2
+2020-03-13,BX-05 P08,Rua Alagoas,Centro - São João de Meriti,São João de Meriti,Rede de Distribuição,2,2
+2020-03-13,BX-05 P27,Rua Pastor Joaquim Rosa,J Meriti - São João de Meriti,São João de Meriti,Rede de Distribuição,2,2
+2020-10-01,25922/20,Rua Dr. Otávio Kelly,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-01,S.A. 2243/20,Rua Uberaba,Grajaú,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-02,S.A. 2242/20,Rua Viúva Lacerda,Humaitá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-02,S.A. 2061/20B,Rua Rubem Braga,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-02,INT-06 P08,Rua Macabu,Coelho Neto,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-02,S.A. 2227/20,Rua São Gotardo,Bangu,Rio de Janeiro,Rede de Distribuição,2,1
+2020-10-02,S.A. 2245/20,Rua Verde,Campo Grande,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-04,S.A. 2255/20,Av. Abílio Augusto Távora,Centro,Nova Iguaçu,Rede de Distribuição,1,1
+2020-10-05,S.A. 2196/20A,Rua Jucari,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-05,S.A. 2123/20A,Estrada Gov. Chagas Freitas,Moneró,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-05,S.A. 2259/20,Rua Amorim,Piedade,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-06,S.A 2269/20,Rua Loureiro Ribeiro,Higienópolis,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-06,Am. 26053/20,Estrada da Pedra,Pedra de Guaratiba,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-07,Am. 26132/20,Rua Vinte e Quatro de Maio,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-07,Am. 26151/20,Rua Primo Teixeira,Encantado,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-07,Am. 26355/20,Rua Olímpia Esteves,Padre Miguel,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-07,Am. 26365/20,Rua General Sezefredo,Realendo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-07,Am. 26378/20,Rua Teodoro Sampaio,Jardim Sulacap,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-07,S.A. 2264/20,Rua Pedro Teixeira,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,Am. 26453/20,Rua Guaravera,Curicica,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,Am. 26457/20,Rua Caraibuna,Taquara,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,Am. 26460/20,Estrada do Rio Pequeno,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,Am. 26516/20,Rua Miltom,Ramos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,Am. 26492/2,Rua Marata,Campo Grande,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,Am. 26507/20,Av. Joaquim Magalhães,Senador A. Vasconcelos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-08,S.A. 2190/20A,Avenida Brasil,Vila São Luiz,Duque de Caxias,Rede de Distribuição,1,1
+2020-10-09,S.A. 2277/20,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-09,S.A. 2283/20,Estrada da Covanca - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-09,S.A. 2276/20,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-09,S.A. 2277/20,Avenida Edson Passos - Reservatório Caixa Nova - Entrada,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-09,Am. 26597/20,Praça da Cruz Vermelha,Centro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-09,Am. 26589/20,Rua Estácio de Sá,Estácio,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-09,Am. 26591/20,Rua Amoroso Lima,Cidade Nova,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-09,Am. 26650/20,Rua Bucareste,Vigário Geral,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-09,Am. 26641/20,Rua Cordovil,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-12,Am. 26957/20,Rua Eugenio de Menezes,Venda Velha,São João de Meriti,Rede de Distribuição,1,1
+2020-10-12,Am. 26966/20,Avenida Dr. Arruda Negreiros,Centro,São João de Meriti,Rede de Distribuição,1,1
+2020-10-12,Am. 25146/20,Rua General Dionisio,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,1,1
+2020-10-13,Am. 26747/20,Rua Pinto da Fonseca,Magalhães Bastos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-13,Am. 26806/20,Rua Professor Valdemar Raythe,Guadalupe,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-13,Am. 26815/20,Rua Isolino Aquino,Deodoro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-13,S.A. 2280/20,Alameda Caheiros da Graça - Abastecimento Carros-Pipa,Jardim Primavera,Duque de Caxias,Macro Distribuição,1,1
+2020-10-14,Am. 27040/20,Rua Engenheiro Álvaro Niemeyer,São Conrado,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-14,Am. 27008/20,Rua Atílio Milano,Del Castilho,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-14,Am. 27046/20,Rua São Leobaldo,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-14,Am. 27060/20,Avenida General Guedes da Fontoura,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-14,S.A. 2285/20,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2020-10-14,S.A. 2275/20,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2020-10-14,S.A. 2275/20,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2020-10-14,S.A. 2284/20,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2020-10-14,S.A. 2288/20,Avenida Euclides da Cunha - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,1,1
+2020-10-15,Am. 27102/20,Avenida Doutor Salles Teixeira,Aero Clube,Nova Iguaçu,Rede de Distribuição,1,1
+2020-10-15,Am. 27117/20,Rua Benjamim Chambarelli,K-11,Nova Iguaçu,Rede de Distribuição,1,1
+2020-10-15,Am. 27070/20,Rua Pires da Mota,Ribeira - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-15,Am. 27130/20,Rua Doutor Barros Júnior,Centro,Nova Iguaçu,Rede de Distribuição,1,1
+2020-10-15,Am. 27262/20,Rua Rugendas,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-16,Am. 27314/20,Rua Marechal Aguiar,Benfica,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-16,Am. 27280/20,Rua Garibalde,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,1,1
+2020-10-16,Am. 27302/20,Avenida Doutor Manoel Reis,Centenário,Duque de Caxias,Rede de Distribuição,1,1
+2020-10-18,Am. 27705/20,Travessa Sebastião Izidoro,Guaraciaba,Belford Roxo,Rede de Distribuição,1,1
+2020-10-18,Am. 27716/20,Rua Retiro da Imprensa,Vila Heliópolis,Belford Roxo,Rede de Distribuição,1,1
+2020-10-19,Am. 27748/20,Rua Professor Pires Salgado,Jardim América,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-19,Am. 27743/20,Rua Bucareste,Vigário Geral,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-19,Am. 27832/20,Ladeira dos Tabajaras,Copacabana,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-19,Am. 27833/20,Rua Santa Clara,Copacabana,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-19,Am. 27757/20,Rua Itajaí,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-19,Am. 26190/20,Rua Cândido Benício,Campinho,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-19,S.A. 2284/20,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jardim Queimados,Queimados,Macro Distribuição,1,1
+2020-10-20,Am. 27962/20,Rua Mister Watkins,Centro,Mesquita,Rede de Distribuição,1,1
+2020-10-20,Am. 27971/20,Rua Presidente General Craveiro Lopes,Olinda,Nilópolis,Rede de Distribuição,1,1
+2020-10-20,Am. 27917/20,Rua Maranhão,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-20,Am. 27907/20,Rua Vinte e Quatro de Maio,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-20,Am. 27873/20,Rua Visconde de Itamarati,Maracanã,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-21,Am. 28032/20,Rua Gamboa,Gamboa,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-21,Am. 28017/20,Rua Alice,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-21,Am. 28072/20,Rua Presidente Nereu Ramos,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-21,S.A. 2307/20,Rua Augusto Nunes,Todos os Santos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-21,S.A. 2281/20,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Circular,Duque de Caxias,Macro Distribuição,1,1
+2020-10-21,S.A. 2287/20,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Circular,Duque de Caxias,Macro Distribuição,1,1
+2020-10-22,S.A. 2273/20,Rua Pernambuco - Reservatório Engenho de Dentro - Entrada,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-22,S.A. 2273/20,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,2,1
+2020-10-22,S.A. 2253/20,Rua Joaquim Coelho Alamo,Agostinho Porto,São João de Meriti,Rede de Distribuição,1,1
+2020-10-22,S.A. 2308/20,Avenida Alhambra,Campo Grande,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-22,S.A. 2310/20,Rua Fernandes da Cunha,Vigário Geral,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-22,Am. 27499/20,Rua Tenente Araken Baptista,Penha,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-23,S.A. 2162/20,Rua Carlos Esteves,Vila São Luiz,Duque de Caxias,Rede de Distribuição,1,1
+2020-10-23,S.A. 2323/20,Rua Maba,Vigário Geral,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-25,Am. 27857/20,Avenida João de Deus Menezes,Venda Velha,São João de Meriti,Rede de Distribuição,1,1
+2020-10-26,Am. 28360/20,Rua Estácio de Sá,Estácio,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-25,Am. 27854/20,Rua Goiás,Centro,São João de Meriti,Rede de Distribuição,1,1
+2020-10-25,Am. 27851/20,Rua Teixiera Pinto,Engenheiro Belford,São João de Meriti,Rede de Distribuição,1,1
+2020-10-26,Am. 28377/20,Rua Barão de Itapagipe,Rio Comprido,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-26,Am. 28363/20,Rua Amoroso Lima,Cidade Nova,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-26,Am. 28324/20,Rua Benjamim Batista,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-26,Am. 28348/20,Rua Cupertino Durão,Leblon,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-26,Am. 28337/20,Rua Duque Estrada,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-27,Am. 28643/20,Rua Carmem Freitas Salgado,Califórnia,Nova Iguaçu,Rede de Distribuição,1,1
+2020-10-27,Am. 28620/20,Rua de Vila Lúcia,Aero Clube,Nova Iguaçu,Rede de Distribuição,1,1
+2020-10-27,Am. 28495/20,Rua Coronel França Leite,Cabral,Nilópolis,Rede de Distribuição,1,1
+2020-10-27,Am. 28481/20,Rua Doutor Heitor da Costa Val,Centro,Mesquita,Rede de Distribuição,1,1
+2020-10-27,Am. 28501/20,Rua Conde de Porto Alegre,Centro,Duque de Caxias,Rede de Distribuição,1,1
+2020-10-27,S.A. 2278/20,Rua Francisca Tomé - Reservatório Centenário - Entrada,Centenário,Duque de Caxias,Macro Distribuição,1,1
+2020-10-27,S.A. 2278/20,Rua Francisca Tomé - Reservatório Centenário - Saída,Centenário,Duque de Caxias,Macro Distribuição,1,1
+2020-10-28,Am. 28662/20,Rua Amisterdam,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-28,Am. 28728/20,Estrada dos Três Rios,Freguesia,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-28,Am. 28721/20,Rua Geminiano Gois,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-28,Am. 28684/20,Avenida Doutor Maria Estrela,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-28,Am. 28732/20,Rua Batista da Costa,Lagoa,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-29,S.A. 2274/20,Rua Marechal Jardim - Reservatório Pedregulho - Saída,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-29,Am. 28779/20,Estrada da Bica,Cacuia - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-29,Am. 28787/20,Estrada do Galeão,Galeão - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-29,Am. 28898/20,Rua Visconde de Santa Isabel,Vila Isabel,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-29,Am. 28889/20,Rua Mariz e Barros,Praça da Bandeira,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-30,S.A. 2274/20,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2020-10-30,Am. 29072/20,Rua Visconde de Ouro Preto,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-30,Am. 29044/20,Rua Alice,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-31,Am. 29149/20,Estrada João Paulo,Barros Filho,Rio de Janeiro,Rede de Distribuição,1,1
+2020-10-31,Am. 29160/20,Rua Lins de Vasconcelos,Lins de Vanconcelos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-02,Am. 29482/20,Rua Paraguai,Belford Roxo,Belford Roxo,Rede de Distribuição,1,1
+2020-11-02,Am. 29478/20,Avenida Benjamim Pinto Dias,Belford Roxo,Belford Roxo,Rede de Distribuição,1,1
+2020-11-03,Am. 29288/20,Rodovia Washington Luiz,Duque de Caxias,Duque de Caxias,Rede de Distribuição,1,1
+2020-11-03,Am. 29289/20,Rua Conde de Porto Alegre,Centro,Duque de Caxias,Rede de Distribuição,1,1
+2020-11-03,Am. 29376/20,Rua Albano,Praça Seca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-03,Am. 29390/20,Rua Luiz Beltrão,Vila Valqueire,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-04,Am. 29580/20,Avenida Itaoca,Inhaúma,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-04,Am. 29549/20,Rua Pires da Mota,Ribeira - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-04,S.A. 2360/20,Rua Corcovado,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-04,S.A. 2357/20,Rua Ipiranga,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-05,Am. 28812/20,Rua Silva Gomes,Cascadura,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-05,Am. 29776/20,Rua Isolino Aquino,Deodoro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-05,S.A. 2362/20,Rua Inspiração,Vila da Penha,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-05,Am. 29712/20,Rua Correia Seara,Magalhães Bastos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-06,Am. 29882/20,Rua Retiro dos Artistas,Pechincha,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-06,Am. 29965/20,Rua São Joaquim,Cachambi,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-06,Am. 29995/20,Rua Marques de Leão,Engenho Novo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-06,Am. 29904/20,Rua Estácio de Sá,Estácio,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-08,S.A. 2333/20,Rua Costa Filho,Marechal Hermes,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-09,Am. 30110/20,Rua Imperador,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-09,Am. 30115/20,Rua Tenente Nepomuceno,Vila Militar,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-09,Am. 30186/20,Avenida Governador Roberto Silveira,Centro,Nova Iguaçu,Rede de Distribuição,1,1
+2020-11-10,Am. 30300/20,Rua Presidente General Craveiro Lopes,Olinda,Nilópolis,Rede de Distribuição,1,1
+2020-11-10,Am. 30294/20,Rua Casulo,Centro,Mesquita,Rede de Distribuição,1,1
+2020-11-10,Am. 30346/20,Rua Visconde de Ouro Preto,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-10,Am. 30273/20,Rua Bananal,Olavo Bilac,Duque de Caxias,Rede de Distribuição,1,1
+2020-11-10,S.A. 2369/20,Estrada Água Branca,Magalhães Bastos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-11,Am. 30454/20,Rua Licinio Cardoso,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-11,Am. 30507/20,Avenida Antenor Navarro,Braz de Pina,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-11,S.A. 2372/20,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2020-11-11,S.A. 2372/20,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2020-11-11,S.A. 2370/20,Rua Pernambuco - Reservatório Engenho de Dentro - Entrada,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-11,S.A. 2370/20,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-11,S.A. 2374/20,Avenida Edson Passos - Reservatório Caixa Nova - Entrada,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-11,S.A. 2374/20,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-12,Am. 30752/20,Estrada Maracajá,Galeão - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-12,Am. 30734/20,Estrada Galeão,Galeão - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-13,Am. 30931/20,Avenida Epitácio Pessoa,Lagoa,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-13,Am. 30848/20,Rua Retiro dos Artistas,Pechincha,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-13,Am. 30838/20,Rua Waldemar Dutra,Santo Cristo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-13,Am. 30907/20,Rua Angélica Mota,Olaria,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-13,S.A. 2371/20,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-13,S.A. 2371/20,Rua Marechal Jardim - Reservatório Pedregulho - Saída,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-13,S.A. 2373/20,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-13,S.A. 2373/20,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-16,Am. 31044/20,Rua Bom Pastor,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-16,Am. 31050/20,Rua Visconde de Itamarati,Maracanã,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-16,Am. 31085/20,Rua Frei Caneca,Centro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-16,Am. 31092/20,Praça da Cruz Vermelha,Centro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-17,Am. 31146/20,Rua Netuno,Centro,Mesquita,Rede de Distribuição,1,1
+2020-11-17,Am. 31159/20,Rua Roldão Gonçalves,Olinda,Nilópolis,Rede de Distribuição,1,1
+2020-11-17,Am. 31273/20,Avenida Rodrigo Otávio,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-17,Am. 31310/20,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jardim Queimados,Queimados,Macro Distribuição,1,1
+2020-11-17,S.A. 2400/20,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Duque de Caxias,Duque de Caxias,Macro Distribuição,1,1
+2020-11-17,S.A. 2402/20,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Duque de Caxias,Duque de Caxias,Macro Distribuição,1,1
+2020-11-17,S.A. 2404/20,Alameda Calheiros da Graça  - Abastecimento Carros-Pipa,Duque de Caxias,Duque de Caxias,Macro Distribuição,1,1
+2020-11-18,Am. 29190/20,Avenida das Américas,Recreio,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-18,Am. 29207/20,Rua Arthur Possolo,Recreio,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-18,Am. 31323/20,Rua Cristalina Jardim Batan,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-18,Am. 31332/20,Rua Araquem,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-18,S.A. 2410/20,Rua Francisco Franco,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-19,Am. 31405/20,Rua Souza Barros,Engenho Novo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-19,Am. 31423/20,Rua Primo Teixeira,Encantado,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-19,Am. 31436/20,Av. João de Deus Menezes,N. S. Anton,São João de Meriti,Rede de Distribuição,1,1
+2020-11-19,Am. 31466/20,Rua Marques do Paraná,Flamengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-19,Am. 31472/20,Rua Visconde de Ouro Preto,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-19,Am. 31497/20,Rua Alice,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-19,S.A. 2399/20,Av. Euclides da Cunha  - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,1,1
+2020-11-21,S.A. 2424/20,Rua Coronel Camisão,Cordovil,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-21,S.A. 2457/20,Rua Vitor Frond,Coelho Neto,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-21,S.A. 2460/20,Rua Robert Schumann,Jardim América,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-21,S.A. 2462/20,Rua José Sombra,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-21,S.A. 2463/20,Rua Japuanga,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-21,S.A. 2465/20,Rua São Bartolomeu,Vigário Geral,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-22,S.A. 2404/20A,Alameda Calheiros da Graça - Abastecimento Carros-Pipa,Jardim Primavera,Duque de Caxias,Macro Distribuição,1,1
+2020-11-22,S.A. 2414/20,Rua Maria Helena,Rocha Sobrinho,Mesquita,Rede de Distribuição,1,1
+2020-11-23,Am. 31688/20,Rua Visconde de Sepetiba,Santa Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-23,Am. 31675/20,Estrada da Matriz,Pedra de Guaratiba,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-23,Am. 31693/20,Estrada Urucania,Paciência,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-23,Am. 31681/20,Estrada Piaí,Sepetiba,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-24,S.A. 2375/20,Rua Francisca Tomé - Reservatório Centenário - Entrada,Centenário,Duque de Caxias,Macro Distribuição,1,1
+2020-11-24,Am. 31106/20,Rua Conde de Porto Alegre,Centro,Duque de Caxias,Rede de Distribuição,1,1
+2020-11-24,S.A. 2485/20,Rua Magoari,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-24,S.A. 2525/20,Rua Cimbres,Coelho Neto,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-24,S.A. 2539/20,Rua Doutor Jose Thomaz,Pavuna,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-25,S.A. 2405/20,Estrada da Covanca  - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,1,1
+2020-11-25,S.A. 2523/20,Rua Fiação,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-26,Am. 31928/20,Rua Maestro Germano Teixeira,Belford Roxo,Belford Roxo,Rede de Distribuição,1,1
+2020-11-26,S.A. 2617/20,Rua Alvaro De Magalhães,Jardim América,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-26,Am. 31850/20,Estrada do Lameirão,Santíssimo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-26,S.A. 2628/20,Rua Coronel Cota,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-26,S.A. 2625/20,Rua Alves de Brito,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-27,Am. 32116/20,Rua Campo Largo,Padre Miguel,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-27,Am. 32134/20,Rua Abacates,Deodoro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-27,Am. 32039/20,Rua Alberto de Campos,Ipanema,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-27,Am. 32168/20,Rua Marechal José Bevilaqua,Taquara,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-27,S.A. 2458/20A,Rua Américo Ribeiro Rezende,Olinda,Nilópolis,Rede de Distribuição,1,1
+2020-11-27,Am. 32043/20,Avenida Prudente de Morais,Ipanema,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-27,Am. 32016/20,Rua José Bonifácio,Todos os Santos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32327/20,Travessa Carminha,Andaraí,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32407/20,Rua Chaves Faria,São Cristovão,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-29,Am. 32080/20,Rua General Rondon,Pq. Santa Eugênia,Nova Iguaçu,Rede de Distribuição,1,1
+2020-11-29,Am. 32072/20,Rua Maria Laura,Moquetá,Nova Iguaçu,Rede de Distribuição,1,1
+2020-11-29,Am. 32093/20,Rua Otavio Ascole,Chavascal,Nova Iguaçu,Rede de Distribuição,1,1
+2020-11-29,Am. 32074/20,Rua Savero José Bruno,Aeroclube,Nova Iguaçu,Rede de Distribuição,1,1
+2020-11-29,Am. 32200/20,Av. João de Deus Menezes,N.S. Anton,São João de Meriti,Rede de Distribuição,1,1
+2020-11-29,Am. 32208/20,Rua São Pedro,Centro - S. João,São João de Meriti,Rede de Distribuição,1,1
+2020-11-29,Am. 32198/20,Rua Luiz Laudares,P. Analândia,São João de Meriti,Rede de Distribuição,1,1
+2020-11-29,Am. 32205/20,Rua Alagoas,Centro,São João de Meriti,Rede de Distribuição,1,1
+2020-11-30,Am. 29345/20,Rua Eng. Álvaro Niemeyer,São Conrado,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 29355/20,Rua Einstein,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 29357/20,Estrada Barra da Tijuca,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32296/20,Rua Bom Pastor,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32318/20,Rua Barão do Bom Retiro,Engenho Novo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32265/20,Rua Marques de Leão,Engenho Novo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32269/20,Rua Leite Ribeiro,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32281/20,Rua Pernambuco,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,1,1
+2020-11-30,Am. 32263/20,Rua Vinte e Quatro de Maio,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-01,S.A. 2639/20,Rua Henrique Braga,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-01,S.A. 2640/20,Rua Quiroam,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-01,S.A. 2432/20A,Rua Marechal Modestino,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-02,Am. 32691/20,Rua Angélica Mota,Olaria,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-02,Am. 32708/20,Rua Iricume,Brás de Pina,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-02,Am. 32712/20,Rua Professor Rodolpho Rocco,Cidade Universitária,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-02,Am. 32725/20,Rua Ipiru,Cacuia,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-03,Am. 32781/20,Rua Professor Silvio Leite,Taquara,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-03,Am. 32773/20,Estrada Pau da Fome,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-03,Am. 32670/20,Rua João Pessoa,Centro,Nilópolis,Rede de Distribuição,1,1
+2020-12-04,Am. 32595/12,Estrada do Lameirão,Santíssimo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-04,Am. 32886/20,Rua Itajaí,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-04,Am. 32895/20,Rua Vigilante Fortunato,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-05,Am. 32975/20,Rua Muniz Barreto,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-05,Am. 32970/20,Avenida Rui Barbosa,Flamengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-05,Am. 33154/20,Rua Carolina Santos,Lins de Vasconcelos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-05,Am. 33156/20,Rua Adriano,Todos os Santos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-06,S.A. 2666/20,Rua Artur Menezes,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-06,S.A. 2654/20,Rua Ipiranga,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-08,Am. 33304/20,Rua Doutor Otávio Kelly,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-09,S.A. 2415/20,Reservatório Posse  - Saída,Posse,Nova Iguaçu,Macro Distribuição,1,1
+2020-12-09,S.A. 2415/20,Reservatório Posse  - Entrada,Posse,Nova Iguaçu,Macro Distribuição,1,1
+2020-12-09,Am. 32743/20,Estrada Coronel Pedro Correa,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-09,Am. 33424/20,Rua Pinto da Fonseca,Magalhães Bastos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-10,Am. 33125/20,Rua São Leobaldo,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-10,Am. 33130/20,Rua Major Rolinda da Silva,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-10,Am. 33253/20,Rua Garcia Redondo,Cachambi,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-10,Am. 33277/20,Rua Licínio Cardoso,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-11,Am. 33596/20,Rua Pedro Ernesto,Gamboa,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-11,Am. 33524/20,Rua Benajmim Batista,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-11,Am. 33365/20,Rua Olímpia Esteves,Padre Miguel,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-13,Am. 33395/20,Estrada São João Caxias,Centro,São João de Meriti,Rede de Distribuição,1,1
+2020-12-13,Am. 33398/20,Rua Anastácio Correia,Parque Barreto,São João de Meriti,Rede de Distribuição,1,1
+2020-12-13,S.A. 2704/20,Rua Monte Santo,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-13,S.A. 2707/20,Rua Marechal Antônio Souza,Jardim América,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-13,Am. 31563/20,Rua Savero José Bruno,Aero Clube,Nova Iguaçu,Rede de Distribuição,1,1
+2020-12-14,Am. 31566/20,Rua Benedito Kely,Parque Santa Eugênia,Nova Iguaçu,Rede de Distribuição,1,1
+2020-12-15,Am. 26801/20,Avenida Doutor Manoel Reis,Centenário,Duque de Caxias,Rede de Distribuição,1,1
+2020-12-15,Am. 33181/20,Estrada Feliciano Sodré,Centro,Mesquita,Rede de Distribuição,1,1
+2020-12-15,Am. 33188/20,Rua Doutor Heitor da Costa Val,Centro,Mesquita,Rede de Distribuição,1,1
+2020-12-15,S.A. 2732/20,Ladeira dos Guararapes,Cosme Velho,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-15,Am. 33906/20,Rua Batista da Costa,Lagoa,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-16,S.A. 2695/20,Alameda Calheiros da Graça - Abastecimento Carros-Pipa,Jardim Primavera,Duque de Caxias,Macro Distribuição,1,1
+2020-12-16,Am. 34007/20,Rua Arquias Cordeiro,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-15,Am. 26779/20,Rua Garibalde,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,1,1
+2020-12-16,Am. 34060/20,Rua Leverger,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-18,S.A. 2685/20,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2020-12-18,S.A. 2685/20,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2020-12-18,S.A. 2686/20,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2020-12-18,S.A. 2686/20,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2020-12-18,S.A. 2687/20,Avenida Edson Passos - Reservatório Caixa Nova - Entrada,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2020-12-18,S.A. 2687/20,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2020-12-18,S.A. 2683/20,Rua Pernambuco - Reservatório Engenho de Dentro - Entrada,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2020-12-18,S.A. 2683/20,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2020-12-18,S.A. 2692/20,Avenida Euclides da Cunha - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,1,1
+2020-12-18,Am. 34455/20,Rua Vinte e Quatro de Maio,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-18,Am. 33965/20,Rua Barão,Praça Seca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-18,S.A. 2689/20,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jd Queimados,Queimados,Macro Distribuição,1,1
+2020-12-18,S.A. 2691/20,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2020-12-18,S.A. 2690/20,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2020-12-18,Am. 34510/20,Rua José Rocha,Belford Roxo,Belford Roxo,Rede de Distribuição,1,1
+2020-12-19,S.A. 2696/20,Estrada da Covana - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,2,1
+2020-12-19,Am. 34580/20,Avenida Menezes Cortes,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,2,1
+2020-12-20,S.A. 2261/20,Rua Gonçalves dos Santos,Penha Circular,Rio de Janeiro,Rede de Distribuição,2,1
+2020-12-20,S.A. 2740/20,Rua Mercúrio,Pavuna,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-21,Am. 34653/20,Estrada Guandu do Sena,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-21,Am. 34659/20,Rua José Gomes Farias,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-21,Am. 34683/20,Rua Cordovil,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-21,Am. 34624/20,Avenida Cândido Portinari,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-22,Am. 34871/20,Rua André Rocha,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-22,Am. 34877/20,Lad Freguesia,Freguesia,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-22,Am. 34769/20,Rua Pres. Gal. Craveiro Lopes,Olinda,Nilópolis,Rede de Distribuição,1,1
+2020-12-22,Am. 34791/20,Rua Dr Heitor da Costa Val,Centro,Mesquita,Rede de Distribuição,1,1
+2020-12-23,Am. 34816/20,Rua Dom Silvério,Olavo Bilac,Duque de Caxias,Rede de Distribuição,1,1
+2020-12-23,Am. 34987/20,Rua Muniz Barreto,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-23,Am. 34980/20,Rua Marquês do Paraná,Flamengo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-23,Am. 35016/20,Estrada São João Caxias,Centro,São João de Meriti,Rede de Distribuição,1,1
+2020-12-23,Am. 35029/20,Rua Cândida Pires,Centro,São João de Meriti,Rede de Distribuição,1,1
+2020-12-23,Am. 34925/20,Rua Alice,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-23,Am. 34932/20,Rua do Russel,Glória,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-23,Am. 34895/20,Avenida Epitácio Pessoa,Ipanema,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-23,Am. 34907/20,Ladeira dos Tabajaras,Copacabana,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-27,Am. 35295/20,Rua Marechal Raimundo M. Belford,Pq Sta Eugenia,Nova Iguaçu,Rede de Distribuição,2,1
+2020-12-27,Am. 35292/20,Avenida Governador Roberto Silveira,Centro,Nova Iguaçu,Rede de Distribuição,2,1
+2020-12-27,Am. 35300/20,Rua João Martins,K-11,Nova Iguaçu,Rede de Distribuição,3,1
+2020-12-27,Am. 35245/20,Rua Francis,Nova Piam,Belford Roxo,Rede de Distribuição,2,1
+2020-12-27,Am. 35233/20,Rua José Muniz,Belford Roxo,Belford Roxo,Rede de Distribuição,3,1
+2020-12-27,Am. 35286/20,Av. Dr. Salles Teixeira,Aero Clube,Nova Iguaçu,Rede de Distribuição,1,1
+2020-12-27,Am. 35240/20,Rua Paraguai,Belford Roxo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-28,Am. 35484/20,Rua Atílio Milano,Del Castilho,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-28,Am. 35486/20,Avenida Itaoca,Bonsucesso,Rio de Janeiro,Rede de Distribuição,3,1
+2020-12-28,Am. 35494/20,Praça Aquidauana,Vicente de Carvalho,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-28,Am. 35500/20,Avenida Meriti,Vila Kosmos,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-28,S.A. 2683/20,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,2,1
+2020-12-28,S.A. 2684/20,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,2,1
+2020-12-28,S.A. 2684/20,Rua Marechal Jardim - Reservatório Pedregulho - Saída,Benfica,Rio de Janeiro,Macro Distribuição,2,1
+2020-12-30,S.A. 2693/20,Rua Capitão Damasceno - Abastecimento Carros-Pipa 1,Circular,Duque de Caxias,Macro Distribuição,1,1
+2020-12-30,S.A. 2694/20,Rua Capitão Damasceno - Abastecimento Carros-Pipa 2,Circular,Duque de Caxias,Macro Distribuição,1,1
+2020-12-30,Am. 35433/20,Rua Estácio de Sá,Estácio,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-30,Am. 35761/20,Rua Vieira Bueno,São Cristóvão,Rio de Janeiro,Rede de Distribuição,2,2
+2020-12-30,Am. 35449/20,Rua Carmo Neto,Santo Cristo,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-30,Am. 35722/20,Rua Jardim Botânico,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-30,Am. 35734/20,Rua Oitis,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2020-12-30,Am. 35787/20,Rua Carlos Seidl,Caju,Rio de Janeiro,Rede de Distribuição,2,2
+2021-01-04,Am. 45/21,Avenida Candido Portinari,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-04,Am. 48/21,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-04,Am. 151/21,Rua Licinio Cardoso,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-04,Am. 165/21,Rua Dona Isabel,Bonsucesso,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-05,Am. 596/21,Rua Conde de Porto Alegre,Centro,Duque de Caxias,Rede de Distribuição,2,1
+2021-01-05,Am. 614/21,Rua José E M Gouvea,Olavo Bilac,Duque de Caxias,Rede de Distribuição,2,1
+2021-01-06,Am. 814/21,Praia do Zumbi,Zumbi,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-06,Am. 823/21,Avenida Paranapuã,Ilha do Governador,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-06,Am. 828/20,Avenida Doutor Agenor Almeida Loyola,Bancários,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-07,Am. 977/21,Estrada Pedra,Pedra de Guaratiba,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-07,Am. 983/21,Avenida Areia Branca,Santa Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-07,Am. 872/21,Estrada Rio Grande,Taquara,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-07,Am. 883/21,Rua Bacairis,Taquara,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-08,Am. 1039/21,Rua General Carvalho,Cordovil,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-08,Am. 1131/21,Rua Cristalina Jardim Batan,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-08,Am 1102/21,Rua Jardim Botânico,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-08,Am. 1105/21,Rua Senador Simonsen,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-08,S.A. 007/21,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2021-01-08,S.A. 007/21,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2021-01-08,S.A. 008/21,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-08,S.A. 008/21,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-10,Am. 1351/21,Rua Barra Mansa,Coelho Neto,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-10,Am. 1354/21,Rua Guassupi,Coelho Neto,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-11,Am. 901/21,Estrada Coronel Pedro Correia,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-11,Am. 1408/21,Rua Jucari,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-11,Am. 1294/21,Avenida Presidente João Goulart,Vidigal,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-11,Am. 1298/21,Estrada da Gávea,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-11,S.A. 06/21,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-11,S.A. 06/21,Rua Marechal Jardim - Reservatório Pedregulho - Saída,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-12,Am. 717/21,Rua João Pessoa,Centro,Nilópolis,Rede de Distribuição,1,1
+2021-01-12,Am. 708/21,Rua Doutor Heitor da Costa Val,Centro,Mesquita,Rede de Distribuição,1,1
+2021-01-12,Am. 1501/21,Rua Marechal Bento Manoel,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,1,1
+2021-01-12,S.A. 46/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Duque de Caxias,Duque de Caxias,Macro Distribuição,1,1
+2021-01-12,S.A. 47/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Duque de Caxias,Duque de Caxias,Macro Distribuição,1,1
+2021-01-12,S.A. 48/21,Alameda Calheiros da Graça  - Abastecimento Carros-Pipa,Duque de Caxias,Duque de Caxias,Macro Distribuição,1,1
+2021-01-12,S.A. 49/21,Estrada da Covana - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-12,S.A. 10/21,Rua Francisca Tomé - Reservatório Centenário - Entrada,Centenário,Duque de Caxias,Macro Distribuição,1,1
+2021-01-13,S.A. 09/21,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-13,Am. 1267/21,Rua Marina,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-13,Am. 1703/21,Estrada do Lameirão,Santissimo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-13,Am. 1707/21,Rua Juruena,Senador A Vasconcelos,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-14,Am. 1226/21,Rua Eneas Martins,Guadalupe,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-14,Am. 1840/21,Estrada do Galeão,Galeão,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-15,Am. 1569/21,Rua Visconde de Itamarati,Maracanã,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-15,Am. 2378/21,Rua José Bonifácio,Todos os Santos,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-15,Am. 2333/21,Rua Amoroso Lima,Cidade Nova,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-15,Am. 2385/21,Avenida João Ribeiro,Pilares,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-15,S.A. 05/21A,Rua Pernambuco - Reservatório Engenho de Dentro - Entrada,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2021-01-16,Am. 2400/21,Avenida João de Deus Menezes,N S Anton,São João de Meriti,Rede de Distribuição,2,1
+2021-01-17,S.A. 43/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belf Roxo,Belford Roxo,Macro Distribuição,1,1
+2021-01-17,S.A. 44/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,2,1
+2021-01-17,S.A. 42/21,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jd Queimados,Queimados,Macro Distribuição,1,1
+2021-01-18,Am. 2489/21,Rua Geminiano Gois,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-18,Am. 2552/21,Avenida Brasil,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-20,Am. 3072/21,Rua Expedicionários,Centro,São João de Meriti,Rede de Distribuição,3,1
+2021-01-21,Am. 2435/21,Estrada Plinio Casado,Prata,Belford Roxo,Rede de Distribuição,2,1
+2021-01-21,S.A. 110/21,Rua Soares Cabral,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-21,Am. 2958/21,Rua do Russel,Glória,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-21,S.A. 126/21,Rua Frei Caneca,Centro,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-21,S.A. 78/21,Rua Mariz e Barros,Tijuca,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-21,Am. 2440/21,Rua Retiro da Imprensa,Vila Heliopolis,Belford Roxo,Rede de Distribuição,2,1
+2021-01-22,S.A. 151/21,Rua Doutor Bulhões,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-22,S.A. 118/21,Rua Lucaia,Taquara,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,S.A. 138/21,Rua General Carvalho,Cordovil,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,S.A. 65/21,Praça Manoel Mariz,Cosmos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 153/21,Rua Visconde Domingos Sepetiba,Sepetiba,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,S.A. 92/21,Avenida Pastor Marthin Luther King,Colégio,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 152/21,Avenida Pastor Marthin Luther King,Coelho Neto,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-23,S.A. 176/21,Rua Dr. Crespo,Recreio,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-23,S.A. 162/21,Estrada Marechal Alencastro,Anchieta,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,S.A. 137/21,Estrada Cabuçu de baixo,Guaratiba,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 175/21,Rua João da Silva Santos,Inhoaíba,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,S.A. 168/21,Rua Manoel Machado,Vaz Lobo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 167/21,Rua Japoara,Ricardo de Albuquerque,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 124/21,Rua Carolina Amado,Irajá,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-23,S.A. 166/21,Avenida Pastor Marthin Luther King,Pavuna,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,-,Rua Alcides Maia,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,-,Estrada do Engenho da Água,Gardênia,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 154/21,Rua Iriju,Taquara,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-23,S.A. 122/21,Rua Carlos Xavier,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,-,Rua Barão,Praça Seca,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-23,-,Rua Candido Benício,Campinho,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 181/21,Rua Getúlio,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 182/21,Rua Bernardo Guimarães,Quintino,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-24,S.A. 177/21,Avenida Dom Helder Câmara,Benfica,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 179/21,Avenida Amaro Cavalcante,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 178/21,Rua Cachambi,Cachambi,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,Am. 2787/21,Rua Sanatório,Madureira,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 131/21,Estrada Intendente Magalhães,Cascadura,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 180/21,Rua Souza Barros,Engenho Novo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 174/21,Rua Crato,Penha,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 183/21,Rua Mariana Portela,Sampaio,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 184/21,Rua Pedro Américo,Catete,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 187/21,Boulevard 28 de Setembro,Vila Isabel,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 171/21,Rua Padre Januário,Inhaúma,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 170/21,Rua Piaiba,Brás de Pina,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 119/21,Rua Prefeito João Felipe,Santa Teresa,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 141/21,Rua Vitorio de Costa,Humaitá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 172/21,Rua Xavier Faria,São Cristóvão,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 113/21,Travessa Machado de Oliveira,Ramos,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 148/21,Rua Oito de Dezembro,Maracanã,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 145/21,Rua Leopoldo,Andaraí,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-24,S.A. 134/21,Rua São Clemente,Botafogo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 128/21,Rua Carlos Gois,Leblon,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 188/21,Rua Jornalista José Rego,São Conrado,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-24,S.A. 185/21,Rua Estácio de Sá,Estácio,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-25,S.A. 129/21,Rua Paula Nei,Realengo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-25,S.A. 143/21,Praça Ricardo Gonçalves,Realengo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-25,S.A. 142/21,Estrada Viegas,Senador Camará,Rio de Janeiro,Rede de Distribuição,4,1
+2021-01-25,Am. 3359/21,Rua Gomes Serpa,Piedade,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-25,Am. 3351/21,Rua Primo Teixeira,Encantado,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-25,S.A. 133/21,Rua Ary Lobo,Campo Grande,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-25,Am. 3374/21,Rua Lopes Quintas,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-25,S.A. 130/21,Rua Sananduva,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-26,Am. 3094/21,Rua Garibalde,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,2,1
+2021-01-26,Am. 3415/21,Rua Nossa Senhora de Fátima,Olinda,Nilópolis,Rede de Distribuição,2,1
+2021-01-26,Am. 3405/21,Rua Doutor Heitor da Costa Val,Centro,Mesquita,Rede de Distribuição,3,1
+2021-01-26,Am. 3110/21,Rua José E M Gouvea,Olavo Bilac,Duque de Caxias,Rede de Distribuição,2,1
+2021-01-26,S.A. 2773/20,Rua Silvestre Filippi,Parque Anchieta,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-27,S.A. 221/21,Rua 19,Paciência,Rio de Janeiro,Rede de Distribuição,4,2
+2021-01-27,Am. 3588/21,Rua Barros Alarcão,Guaratiba,Rio de Janeiro,Rede de Distribuição,1,1
+2021-01-27,Am. 3599/21,Rua Prado,Santa Cruz,Rio de Janeiro,Rede de Distribuição,4,2
+2021-01-27,S.A. 155/21,Rua Uberlândia,Realengo,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-27,S.A. 196/21,Estrada do Pré,Senador A Vasconcelos,Rio de Janeiro,Rede de Distribuição,6,1
+2021-01-27,Am. 3564/21,Rua Marata,Campo Grande,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-27,Am. 3655/21,Rua General Roca,Tijuca,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-27,Am. 3679/21,Rua Itabaiana,Grajaú,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-27,Am. 3694/21,Avenida Edson Passos,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,6,2
+2021-01-27,S.A. 161/21,Avenida Nazare,Pavuna,Rio de Janeiro,Rede de Distribuição,4,2
+2021-01-27,S.A. 165/21,Rua Luiz Prata,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,4,2
+2021-01-28,S.A. 216/21,Rua Dom Oscar Romero,Campo Grande,Rio de Janeiro,Rede de Distribuição,4,1
+2021-01-28,S.A. 212/21,Rua Helena,Realengo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-28,S.A. 23/21A,Rua Yamagata,Bangu,Rio de Janeiro,Rede de Distribuição,6,1
+2021-01-28,S.A. 208/21,Rua Japura,Praça Seca,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-28,S.A. 207/21A,Rua Igarata,Marechal Hermes,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-28,S.A. 205/21,Rua Sen. Nabuco,Vila Isabel,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-28,S.A. 24/21A,Rua Nova Era,Campo Grande,Rio de Janeiro,Rede de Distribuição,8,1
+2021-01-28,S.A. 203/21,Avenida Josino Fernandes,Bangu,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-28,S.A. 222/21,Rua José Higino,Tijuca,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-28,S.A. 225/21,Rua Prof. Gabizo,Tijuca,Rio de Janeiro,Rede de Distribuição,8,1
+2021-01-28,S.A. 206/21,Rua Doutor Nunes,Olaria,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-29,Am. 3890/21,Rua Coronel Moreira Cesar,Pavuna,Rio de Janeiro,Rede de Distribuição,6,2
+2021-01-29,S.A. 219/21,Rua Cristóvão Xavier Lopes,Coelho Neto,Rio de Janeiro,Rede de Distribuição,4,1
+2021-01-29,Am. 3902/21,Avenida Menezes Cortes,Jacarepagua,Rio de Janeiro,Rede de Distribuição,3,1
+2021-01-29,S.A. 226/21,Rua Marechal José Bevilaqua,Taquara,Rio de Janeiro,Rede de Distribuição,8,1
+2021-01-29,Am. 3925/21,Estrada dos Três Rios,Jacarepagua,Rio de Janeiro,Rede de Distribuição,8,1
+2021-01-29,S.A. 215/21,Alameda Cruzeiro,Pavuna,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-29,S.A. 242/21,Rua Marques de Sabara,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,8,1
+2021-01-29,S.A. 1625/20C,Rua General Galieni,Bonsucesso,Rio de Janeiro,Rede de Distribuição,6,2
+2021-01-29,S.A. 5/21B,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,3,1
+2021-01-29,S.A. 256/21,Rua Miguel Cervantes,Cachambi,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-29,S.A. 257/21,Providência - Elevatória,Gamboa,Rio de Janeiro,Macro Distribuição,4,1
+2021-01-29,S.A. 257/21,Providência - Saída,Gamboa,Rio de Janeiro,Macro Distribuição,6,2
+2021-01-29,S.A. 253/21,Rua Amoroso Lima,Cidade Novo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-01-30,Am. 4267/21,Avenida Doutor Salles Teixeira,Aero Clube,Nova Iguaçu,Rede de Distribuição,4,2
+2021-01-30,Am. 4281/21,Rua João Martins,K-11,Nova Iguaçu,Rede de Distribuição,4,2
+2021-01-30,Am. 4270/21,Rua Dom Adriano Hiópolito,Moquetá,Nova Iguaçu,Rede de Distribuição,4,2
+2021-01-30,Am. 3729/21,Rua Guilherme P Cavalcante,Centro,São João de Meriti,Rede de Distribuição,4,2
+2021-01-30,Am. 3720/21,Rua Luiz Laudares,Parque Analândia,São João de Meriti,Rede de Distribuição,4,2
+2021-01-31,S.A. 267/21,Rua Modesto Brocos,Horto,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-31,Am. 4337/21,Rua Souza  Barros,Engenho Novo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-31,Am. 4356/21,Rua Joaquim Martins,Encantado,Rio de Janeiro,Rede de Distribuição,8,2
+2021-01-31,Am. 4320/21,Rua Paraguai,Belford Roxo,Belford Roxo,Rede de Distribuição,4,2
+2021-01-31,Am. 4323/21,Rua Retiro da Imprensa,Vila Heliópolis,Belford Roxo,Rede de Distribuição,6,2
+2021-01-30,S.A. 266/21,Rua Visconde de Santa Isabel,Vila Isabel,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-01,S.A. 280/21,Avenida Borges de Medeiros,Leblon,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-01,S.A. 254/21,Rua São Clemente,Botafogo,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-01,S.A. 213/21,Rua Almirante Felinto Perry,Anil,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-01,S.A. 281/21,Rua Adelaide,Piedade,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-01,S.A. 120/21,Rua Glaziou,Pilares,Rio de Janeiro,Rede de Distribuição,8,2
+2021-02-02,Am. 4530/21,Avenida Doutor Manoel Reis,Centenário,Duque de Caxias,Rede de Distribuição,4,2
+2021-02-02,S.A. 294/21,Rua Barão de Mesquita,Tijuca,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-02,S.A. 283/21,Rua Florianopolis,Ouro Preto,Nova Iguaçu,Rede de Distribuição,4,2
+2021-02-02,S.A. 102/21,Rua Francisca Tomé,Centenário,Duque de Caxias,Macro Distribuição,3,2
+2021-02-02,S.A. 278/21,Rua Mot Luiz Abreu,Anchieta,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-02,Am. 4524/21,Rua Jose E M Gouvea,Olavo Bilac,Duque de Caxias,Rede de Distribuição,6,2
+2021-02-02,Am. 4547/21,Rua Saturno,Centro,Mesquita,Rede de Distribuição,4,2
+2021-02-02,Am. 4553/21,Rua João Pessoa,Centro,Nilópolis,Rede de Distribuição,4,2
+2021-02-03,SA 318/21,Avenida Atlântica,Copacabana,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-03,SA 317/21,Rua Mario Covas Júnior,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-03,Am. 4427/21,Rua Conde de Baependi,Laranjeiras,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-03,SA 139/21,Rua Cimbres,Coelho Neto,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-03,SA 260/21,Rua Iracu,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-03,SA 295/21,Rua Vieira do Couto,Rocha Miranda,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-03,Am. 46777/21,Rua Engenheiro Álvaro Niemeyer,São Conrado,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-04,Am. 2519/21,Rua Rio da Prata,Bangu,Rio de Janeiro,Rede de Distribuição,8,2
+2021-02-04,Am. 4780/21,Praça Jacarandás,Lagoa,Rio de Janeiro,Rede de Distribuição,8,2
+2021-02-04,Am. 4793/21,Rua Marques de São Vicente,Gávea,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-04,Am. 4755/21,Praça Aquidauana,Vicente de Carvalho,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-04,S.A. 146/21,Rua Padre Telemaco,Cascadura,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-04,S.A. 212/21,Rua Helena,Realengo,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-04,Am. 4631/21,Rua Vinte e Quatro de Maio,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-04,Am. 4648/21,Avenida Paris,Bonsucesso,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-04,Am. 4750/21,Estrada Velha da Pavuna,Del Castilho,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-05,S.A. 369/21,Rua Licínio Cardoso,Bairro Carioca,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-05,S.A. 256/21,Rua Miguel de Cervantes,Cachambi,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-05,S.A. 298/21,Rua Jubaia,Olaria,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-05,Am. 4337/21,Rua Souza Barros,Engenho Novo,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-05,S.A. 226/21,Rua Marechal José Bevilaqua,Taquara,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-06,S.A. 267/21,Rua Modesto Brocos,Horto,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-06,S.A. 318/21,Avenida Atlântica,Copacabana,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-06,S.A. 438/21,Rua Manoel Niobei,Urca,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-06,S.A. 205/21,Rua Senador Nabuco,Vila Isabel,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-06,Am. 3679/21,Rua Itabaiana,Grajaú,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,Am. 4606/21,Rua Antônio Parreiras,Ipanema,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,Am. 4608/21,Avenida Nossa Senhora de Copacabana,Copacabana,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,Am. 4621/21,Rua Gustavo Sampaio,Leme,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,S.A. 442/21,Rua Eduardo de Sá,Higienópolis,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-08,Am. 5173/21,Rua Pires da Mota,Ribeira - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-08,Am. 5238/21,Avenida Cândido Portinari,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,S.A. 440/21,Avenida Giomar Novaes,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,S.A. 370/21,Rua Licínio Cardoso,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-08,S.A. 433/21,Rua Sargento João Lopes,Jardim Carioca - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-08,Am. 5241/21,Avenida das Américas,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-08,Am. 5192/21,Avenida Doutor Agenor Almeida Loyola,Bancários - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-08,Am. 5242/21,Rua Doutor Crespo,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-09,Am. 5068/21,Rua Vereador Francisco Nunes Silva,Olinda,Nilópolis,Rede de Distribuição,4,2
+2021-02-09,S.A. 377/21,Rua São Francisco Xavier,São Fracisco Xavier,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-09,Am. 5060/21,Rua Doutor Heitor da Costa Val,Centro,Mesquita,Rede de Distribuição,3,2
+2021-02-09,Am. 5052/21,Rua Maria Mendes Vecchi,Centro,Mesquita,Rede de Distribuição,3,2
+2021-02-09,S.A. 402/21,Avenida Presidente Vargas,Centro,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-09,S.A. 373/21,Rua Heitor Carrilho,Cidade Nova,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-09,S.A. 409/21,Rua Pedro Teles,Praça Seca,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-09,S.A. 401/21,Rua Buenos Aires,Centro,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 462/21,Rua Moreira Sampaio,Méier,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-10,S.A. 211/21,Rua Manuel Wanderley,Irajá,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 206/21 Rec,Rua Doutor Nunes,Olaria,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 272/21,Rua Almirante Ingram,Brás de Pina,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 452/21,Rua Bento Cardoso,Brás de Pina,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-10,S.A. 334/21,Rua Dionísio Silveira,Taquara,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 391/21,Rua Piquete,Penha,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 375/21,Rua Fidelândia,Curicica,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 473/21,Rua Lins de Vasconcelos,Lins,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-10,Am. 4974/21,Rua Coronel Laurenio Lago,Marechal Hemes,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-10,Am. 4959/21,Rua Matricaria,Guadalupe,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-10,S.A. 389/21,Rua Wellington Jones Paiva,Vargem Pequena,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-10,S.A. 411/21,Rua Daniel Dinis Fonseca,Campo Grande,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 192/21,Rua Alto Longa,Guaratiba,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-10,S.A. 399/21,Rua Cardoso Quintão,Cavalcante,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 413/21,Rua Rui Barbosa,Paciência,Rio de Janeiro,Rede de Distribuição,6,2
+2021-02-10,S.A. 410/21,Rua Iperó,Curicica,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,Am. 4921/21,Rua Marcos de Macedo,Guadalupe,Rio de Janeiro,Rede de Distribuição,4,2
+2021-02-10,S.A. 460/21,Rua Torres Homem,Vila Isabel,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-10,S.A. 398/21,Rua Baleares,Cavalcante,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,Am. 5641/21,Estrada do Pré,Senador A Vasconcelos,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,Am. 4450/21,Rua Tenente Nepomuceno,Vila Militar,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,Am. 5637/21,Estrada Viegas,Senador Camara,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 372/21,Avenida Epitácio Pessoa,Ipanema,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,Am. 5636/21,Estrada do Lameirão,Santíssimo,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,Am. 4463/21,Rua do Jambo,Realengo,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 463/21,Rua Professor Graça,Bangu,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 486/21,Rua Desembargador Izidro,Tijuca,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 316/21,Rua Santo Afonso,Tijuca,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 314/21,Rua Jorge Rudge,Vila Isabel,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 378/21,Rua Benjamin Constant,Glória,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 203/21,Avenida Josino Fernandes,Bangu,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 489/21,Rua Professor Antenor Nascentes Lins,Lins de Vasconcellos,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-11,S.A. 435/21,Rua Moacir Pereira Mattos Filho,Piam,Belford Roxo,Rede de Distribuição,3,2
+2021-02-11,S.A. 407/21,Avenida Brasil,Centro,Mesquita,Rede de Distribuição,3,2
+2021-02-11,S.A. 334/21,Rua Nilberto Lopes Ferraz,Nova Cidade,Nilópolis,Rede de Distribuição,3,2
+2021-02-12,Am. 5039/21,Rua Moncorvo Filho,Centro,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,Am. 5586/21,Estrada do Galeão,Galeão - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,S.A. 456/21,Rua Aracoia,Brás de Pina,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,Am. 5027/21,Rua Waldemar Dutra,Santo Cristo,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,S.A. 345/21,Rua Almirante Guilhem,Leblon,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,S.A. 408/21,Rua Souza Lima,Copacabana,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,S.A. 425/21,Rua Gago Coutinho,Laranjeiras,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,S.A. 485/21,Rua Vinte e Oito de Setembro,Vila Isabel,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,S.A. 353/21,Rua Joseph Bloch,Copacabana,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,Am. 5582/21,Rua Bom Retiro,Jardim Guanabara - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-12,Am. 6020/21,Rua José E M Gouvea,Olavo Bilac,Duque Caxias,Rede de Distribuição,3,2
+2021-02-12,Am. 6002/21,Rua Conde de Porto Alegre,Centro,Duque Caxias,Rede de Distribuição,3,2
+2021-02-13,S.A. 385/21,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Mateus,São João de Meriti,Macro Distribuição,2,1
+2021-02-13,S.A. 459/21,Rua Abolição,Abolição,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-13,S.A. 385/21,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Mateus,São João de Meriti,Macro Distribuição,2,1
+2021-02-13,S.A. 445/21,Avenida Carvalhaes,Belford Roxo,Belford Roxo,Rede de Distribuição,2,1
+2021-02-14,S.A. 233/21,Rua Sucuriju,Cosmos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-14,S.A. 80/21,Rua Soldado Antônio da Silveira,Campo Grande,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-15,S.A. 335/21,Rua Comandante Rubes Silva,Freguesia,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,Am. 5848/21,Rua Arquias Cordeiro,Méier,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 208/21,Rua Japura,Praça Seca,Rio de Janeiro,Rede de Distribuição,2,2
+2021-02-15,S.A. 447/21,Rua Paramirim,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-15,Am. 4356/21,Rua Joaquim Martin,Encantado,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,Am. 3564/21,Rua Maratá,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 349/21,Rua Caiena,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 242/21,Rua Marquês de Sabará,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 472/21,Estrada da Covanca - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-15,Am. 3925/21,Estrada dos Três Rios,Jacarepagua,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,Am. 3655/21,Rua General Roca,Tijuca,Rio de Janeiro,Rede de Distribuição,2,2
+2021-02-15,S.A. 502/21,Rua João Borges,Gávea,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 400/21,Travessa Pinto Bandeira,Vila Kosmos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 215/21 Rec,Alameda Cruzeiro,Pavuna,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 431/21,Rua Ibotim,Coelho Neto,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-15,S.A. 468/21.0,Avenida Euclides da Cunha - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,2,1
+2021-02-16,S.A. 200/21,Beco Estreito,Centro,Belford Roxo,Rede de Distribuição,2,1
+2021-02-16,S.A. 467/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,2,2
+2021-02-16,S.A. 466/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belford Roxo,Belford Roxo,Macro Distribuição,2,1
+2021-02-17,S.A. 306/21,Rua Francisco Karan,Guaratiba,Rio de Janeiro,Rede de Distribuição,3,2
+2021-02-17,S.A. 157/21,Rua Benjamim Batista,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-17,S.A. 144/21,Rua João Pinheiro,Piedade,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-18,Am. 4708/21,Rua Desmons,Coelho Neto,Rio de Janeiro,Rede de Distribuição,2,2
+2021-02-18,S.A. 519/21.0,Rua Emílio Zaloar,Ramos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-18,S.A. 465/21.0,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jardim Queimados,Queimados,Macro Distribuição,2,1
+2021-02-18,S.A. 465/21.0,Estrada Carlos Sampaio - Saída Reservatório,Jardim Queimados,Queimados,Macro Distribuição,2,1
+2021-02-18,S.A. 471/21.0,Alameda Calheiros da Graça - Abastecimento Carros-Pipa,Jardim Primavera,Duque de Caxias,Macro Distribuição,2,1
+2021-02-18,S.A. 415/21.0-A,Rua Bamboré,Del Castilho,Rio de Janeiro,Rede de Distribuição,2,2
+2021-02-18,Am. 4730/21,Estrada Marechal Alencastro,Anchieta,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-18,S.A. 451/21.0,Rua Fábio Luz,Méier,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-18,S.A. 420/21,Rua Ucá,Jardim Guanabara - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-19,Am. 5873/21,Rua Professor Lace,Ramos,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-19,Am. 6130/21,Avenida Governador Roberto Silveira,Centro,Nova Iguaçu,Rede de Distribuição,2,1
+2021-02-19,Am. 5895/21,Rua Aurélio Garcindo,Olaria,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-19,S.A. 383/21,Rua Pernambuco - Reservatório Engenho de Dentro - Entrada,Eng. de Dentro,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-19,S.A. 383/21,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Eng. de Dentro,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-19,S.A. 470/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Circular,Duque de Caxias,Macro Distribuição,2,1
+2021-02-19,S.A. 469/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Circular,Duque de Caxias,Macro Distribuição,2,1
+2021-02-19,S.A. 387/21,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-19,S.A. 387/21,Av. Edson Passos - Reservatório Caixa Nova - Entrada,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-19,S.A. 346/21,Rua Alvares da Rocha,Eng da Rainha,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-21,S.A. 415/21,Rua Bamboré,Del Castilho,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-22,S.A. 386/21,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-22,S.A. 386/21,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-22,S.A. 403/21,Estrada da Paciência,Cosmos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-22,S.A. 444/21,Rua Sambé,Santa Cruz,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-23,Am. 6992/21,Rua Marechal Bento Manoel,Jardim 25 de Agosto,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-22,S.A. 416/21,Rua Serra Grande,Santa Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-23,S.A. 538/21,Ladeira do Ascurra,Cosme Velho,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-23,S.A. 529/21,Avenida Dom Helder Camara,Cascadura,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-23,S.A. 384/21,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,2,1
+2021-02-23,S.A. 384/21,Rua Marechal Jardim - Reservatório Pedregulho - Saída,Benfica,Rio de Janeiro,Macro Distribuição,1,1
+2021-02-24,S.A. 222/21,Rua José Higino,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-24,S.A. 479/21,Rua Cisnes,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,2
+2021-02-25,S.A. 388/21,Rua Francisca Tomé - Reservatório Centenário - Saída,Centenário,Duque de Caxias,Macro Distribuição,1,1
+2021-02-27,S.A. 550/21,Rua Luis Barbosa,Vila Isabel,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-27,S.A. 540/21,Rua Aristides Lobo,Rio Comprido,Rio de Janeiro,Rede de Distribuição,2,2
+2021-02-27,S.A. 23/21,Rua Yamagata,Bangu,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-28,S.A. 211/21,Rua Manoel Wanderley,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-28,S.A. 536/21,Rua Caiua,Colégio,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-28,S.A. 500/21,Rua Licinio Barcelos,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-02-28,S.A. 546/21,Rua Pintor Marques Júnior,Jardim América,Rio de Janeiro,Rede de Distribuição,2,1
+2021-02-28,Am. 225/21,Rua Professor Gabizo,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-01,Am. 8213/21,Rua General Orlando Geisel,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-01,Am. 8147/21,Rua Monte Alto,Bangu,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-01,S.A. 543/21,Rua Júlio Cesar,Bangu,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-01,S.A. 549/21,Rua Souto,Cascadura,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-01,S.A. 545/21,Rua Caiena,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-02,Am. 8269/21,Rua José E M Gouvea,Olavo Bilac,Duque de Caxias,Rede de Distribuição,1,1
+2021-03-02,Am. 8264/21,Rua Senador José Kairala,Vila São Luiz,Duque de Caxias,Rede de Distribuição,1,1
+2021-03-02,Am. 8338/21,Rua Cordovil,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-02,Am. 8357/21,Rua Madagascar,Pavuna,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-03,Am. 8538/21,Avenida Governador Roberto Silveira,Centro,Nova Iguaçu,Rede de Distribuição,1,1
+2021-03-03,Am. 8546/21,Rua João Martins,K-11,Nova Iguaçu,Rede de Distribuição,2,1
+2021-03-03,S.A. 571/21,Rua Miragem,Curicica,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-03,Am. 8538/21,Avenida Governador Roberto Silveira,Centro,Nova Iguaçu,Rede de Distribuição,1,1
+2021-03-03,Am. 8546/21,Rua João Martins,K-11,Nova Iguaçu,Rede de Distribuição,2,1
+2021-03-04,Am. 8591/21,Rua Professor Carlos Wenceslau,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-04,Am. 8575/21,Rua Olimpia Esteves,Padre Miguel,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-04,Am. 8889/21,Estrada dos Bandeirantes,Vargem Pequena,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-04,Am. 8853/21,Avenida João de Deus Menezes,N S Anton,São João de Meriti,Rede de Distribuição,1,1
+2021-03-05,S.A. 541/21,Rua Antônio Saraiva,Cavalcante,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-05,Am. 8949/21,Rua Alice,Laranjeiras,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-08,Am. 8636/21,Rua Arabori B Glória,Rocha Miranda,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-08,S.A. 479/21,Rua Cisnes,Campo Grande,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-08,Am. 9145/21,Rua Amapurus,Tauá - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-09,Am. 9267/21,Avenida Guanabara,Vila Guanabara,Duque de Caxias,Rede de Distribuição,1,1
+2021-03-09,Am. 9101/21,Rua São Leobaldo,Gávea,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-10,Am. 9329/21,Rua Doutor Noguchi,Ramos,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-10,S.A. 563/21,Rua Mirza Abrahan,Centro,São João de Meriti,Rede de Distribuição,2,1
+2021-03-11,Am. 9388/21,Rua Professor Rodolpho P Rocco,Cidade Universitária,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-11,Am. 9070/21,Rua Barão,Praça Seca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-11,S.A. 609/21,Rua Manitoba,Anchieta,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-11,S.A. 600/21,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jardim Queimados,Queimados,Macro Distribuição,2,1
+2021-03-12,S.A. 605/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Circular,Duque de Caxias,Macro Distribuição,1,1
+2021-03-12,S.A. 516/21,Avenida Presidente Kennedy,São Bento,Duque de Caxias,Rede de Distribuição,2,1
+2021-03-12,S.A. 604/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Circular,Duque de Caxias,Macro Distribuição,2,1
+2021-03-12,S.A. 606/21,Alameda Calheiros da Graça - Abastecimento Carros-Pipa,Jardim Primavera,Duque de Caxias,Macro Distribuição,2,1
+2021-03-12,S.A. 601/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belford Roxo,Belford Roxo,Macro Distribuição,2,1
+2021-03-12,S.A. 602/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,2,1
+2021-03-12,S.A. 607/21,Estrada da Covanca - Abastecimento Carros Pipa,Tanque,Rio de Janeiro,Macro Distribuição,2,1
+2021-03-12,S.A. 603/21,Avenida Euclides da Cunha - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,1,1
+2021-03-13,Am. 9792/21,Rua Maques de Paraná,Flamengo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-13,9799/21,Rua Muniz Barreto,Botafogo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-13,S.A. 616/21,Rua Dionísio,Penha,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-13,S.A. 618/21,Rua Couto,Penha,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-14,S.A. 597/21,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,1
+2021-03-14,S.A. 597/21,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,1
+2021-03-14,S.A. 596/21,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,2,1
+2021-03-14,S.A. 598/21,Avenida Edson Passos - Reservatório Caixa Nova - Entrada,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,1,1
+2021-03-14,S.A. 598/21,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,1
+2021-03-14,S.A. 596/21,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2021-03-14,S.A. 595/21,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,2,1
+2021-03-14,S.A. 595/21,Rua Marechal Jardim - Reservatório Pedregulho - Saída,Benfica,Rio de Janeiro,Macro Distribuição,2,1
+2021-03-15,Am. 9851/21,Rua Miguel Angelo,Maria da Graça,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-15,Am. 9832/21,Rua Jose Fernandes,Sepetiba,Rio de Janeiro,Rede de Distribuição,1,1
+2021-03-16,S.A. 610/21,Rua Panamaribo,Vila Nanci,Queimados,Rede de Distribuição,1,1
+2021-03-16,S.A. 639/21,Rua Baronesa de Uruguaiana,Lins de Vasconcelos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-16,S.A. 640/21,Rua Dona Romana,Engenho Novo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-16,Am. 10234/21,Praça Waldomiro Silveira,Bangu,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-16,S.A. 23/21D,Rua Yamagata,Bangu,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-17,Am. 10393/21,Estrada Pau da Fome,Jacarepagua,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-17,S.A. 648/21,Rua Marcio Teixeira,Cavalcante,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-17,S.A. 594/21,Reservatório do Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,3,1
+2021-03-17,S.A. 594/21,Reservatório do Engenho de Dentro - Entrada,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,3,1
+2021-03-17,S.A. 644/21,Rua das Mangueiras,Piedade,Rio de Janeiro,Rede de Distribuição,2,1
+2021-03-18,S.A. 630/21,Avenida Paula Sousa,Maracanã,Rio de Janeiro,Rede de Distribuição,3,1
+2021-03-18,Am. 10565/21,Rua da Matriz,Centro,São João de Meriti,Rede de Distribuição,4,1
+2021-03-20,S.A. 693/21,Rua Olegário Mariano,Tijuca,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-21,S.A. 409/21,Rua Pedro Teles,Praça Seca,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-21,S.A. 659/21,Rua Doutor Nunes,Olaria,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-21,S.A. 668/21,Rua Álvaro de Magalhães,Jardim América,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-21,S.A. 702/21,Rua Rodolfo Chambeland,Jardim América,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-21,S.A. 703/21,Rua Jorge França,Bangu,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-21,S.A. 669/21,Rua Sebastião Bretas Farinele,Vila Militar,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-22,S.A. 671/21,Rua Jaciaba,Curicica,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-22,S.A. 679/21,Rua Barão de Cotegipe,Vila Isabel,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-22,S.A. 623/21,Avenida Epitácio Pessoa,Ipanema,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-22,S.A. 634/21,Rua das Amoreiras,Paciência,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-22,S.A. 662/21,Rua Maria Amália,Tijuca,Rio de Janeiro,Rede de Distribuição,4,1
+2021-03-22,S.A. 663/21,Avenida Atlântica,Copacabana,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-22,S.A. 682/21,Rua Cadete Polônia,Sampaio,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-22,S.A. 710/21,Rua Goianinha,Curicica,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-22,S.A. 694/21,Rua Tenente Pimentel,Olaria,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-22,S.A. 689/21,Rua Getúlio,Todos os Santos,Rio de Janeiro,Rede de Distribuição,3,1
+2021-03-22,S.A. 717/21,Rua Riachuelo,Centro,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-22,S.A. 622/21,Rua Paulo César de Andrade,Laranjeiras,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-22,S.A. 686/21,Rua Santo Alexandrina,Rio Comprido,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-22,S.A. 699/21,Rua Lauro Muller,Botafogo,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-23,S.A. 725/21,Rua Camarista Méier,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-23,S.A. 535/21,Estrada Pedro Borges de Freitas,Irajá,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-23,S.A. 750/21,Rua Juvêncio de Menezes,Cordovil,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-23,S.A. 711/21,Rua Frei Gaspar,Penha Circular,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-23,S.A. 751/21,Rua Cordovil,Cordovil,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-23,S.A. 720/21,Estrada Soca,Taquara,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-23,Am. 10837/21,Rua Monsenhor Marques,Pechincha,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-24,S.A. 735/21,Rua Maxminiano Figueiredo,Engenho Novo,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-24,S.A. 749/21,Rua Casemiro de Abreu,Pilares,Rio de Janeiro,Rede de Distribuição,2,2
+2021-03-24,S.A. 731/21,Rua Figueiredo Pimentel,Abolição,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-24,S.A. 766/21,Rua Engenheiro Egberto Magalhães,Itanhanga,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-24,S.A. 511/21,Rua Soares Meirelles,Pilares,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-24,S.A. 765/21,Rua Antônio Cordeiro,Jacarepagua,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-25,S.A. 790/21,Rua Pedro Leitão,Sepetiba,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-25,S.A. 721/21,Rua Alves do Vale,Vila Valqueire,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-25,Am. 10927/21,Estrada do Lameirão,Santíssimo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-25,S.A. 718/21,Rua Cândido Benício,Campinho,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-25,S.A. 763/21,Rua Bernardino Campos,Olavo Bilac,Duque de Caxias,Rede de Distribuição,4,2
+2021-03-25,S.A. 775/21,Av. Doutor Manuel Teles,Centro,Duque de Caxias,Rede de Distribuição,8,2
+2021-03-25,S.A. 678/21,Rua Olga Hermont,Olinda,Nilópolis,Rede de Distribuição,8,2
+2021-03-25,S.A. 715/21,Rua Capitão Menezes,Praça Seca,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-25,Am. 10930/21,Rua Manuel Suzano,Senador Camara,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-25,S.A. 705/21,Rua Frederico de Menezes,Campo Grande,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-26,Am. 11168/21,Avenida Guanabara,Vila Guanabara,Duque de Caxias,Rede de Distribuição,3,2
+2021-03-26,S.A. 761/21,Travessa Americo de Oliveira,Tijuca,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-26,Am. 11162/21,Rua Garibalde,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,3,2
+2021-03-26,S.A. 784/21,Rua Visconde de Santa Isabel,Vila Isabel,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-26,S.A. 733/21,Rua Luis Barbosa,Vila Isabel,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-26,S.A. 747/21,Rua Ibotirama,Colégio,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-26,S.A. 754/21,Estrada da Água Grande,Irajá,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-27,S.A. 778/21,Rua Ferreira Leite,Abolição,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-27,Am. 11337/21,Rua Tinharé,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-27,S.A. 752/21,Rua Bento Lima,Piedade,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-27,T053 - SA 806/21,Rua Cristóvão Colombo,Cachambi,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-27,S.A. 767/21,Rua Honório,Todos os Santos,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-28,S.A. 746/21,Rua General Severiano,Botafogo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-28,Am. 11435/21,Rua Altair,Vila Heliopolis,Belford Roxo,Rede de Distribuição,4,2
+2021-03-28,S.A. 748/21,Rua Barata Ribeiro,Copacabana,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-28,S.A. 758/21,Rua General Polidoro,Botafogo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-29,Am. 11577/21,Rua Recife,Realengo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-29,S.A. 658/21,Rua Guilherme Moreira,Freguesia,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-29,S.A. 630/21,Avn Paula Sousa,Maracanã,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-29,S.A. 771/21,Rua Manuel Barata,Guadalupe,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-29,S.A. 788/21,Rua Florianopolis,Praça Seca,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-29,S.A. 709/21,Rua Curimata,Madureira,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-29,Am. 11547/21,Etr Rio Grande,Taquara,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-30,S.A. 827/21,Estrada da Posse,Campo Grande,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-30,S.A. 824/21,Rua Oliveira Figueiredo,Vaz Lobo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-30,S.A. 814/21,Rua República,Quintino Bocaiuva,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-30,S.A. 779/21,Av. Chrisostomo P. Oliveira,Anchieta,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-30,S.A. 826/21,Rua Daniel Carneiro,Engenho de Dentro,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-30,S.A. 829/21,Rua Lenir Liberato da Silva,Pavuna,Rio de Janeiro,Rede de Distribuição,3,2
+2021-03-30,S.A. 830/21,Rua São João Gualberto,Vila da Penha,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-30,S.A. 831/21,Rua Barão de Mesquita,Tijuca,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-30,S.A. 832/21,Rua São Luis Gonzaga,São Cristovão,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-30,S.A. 844/21,Rua Capitão Paulo,Anchieta,Rio de Janeiro,Rede de Distribuição,4,2
+2021-03-30,S.A. 845/21,Avn Frederico Faulhaber,Realengo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-31,S.A. 834/21,Estrada Rio Grande,Taquara,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-31,S.A. 836/21,Rua Barão de Lucena,Botafogo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-31,S.A. 837/21,Rua Vanadio,P Alian,São João de Meriti,Rede de Distribuição,8,2
+2021-03-31,S.A. 841/21,Rua Nestor,Santo Elias,Mesquita,Rede de Distribuição,8,2
+2021-03-31,S.A. 843/21,Rua Italia D'Incau,Cavalcante,Rio de Janeiro,Rede de Distribuição,6,2
+2021-03-31,S.A. 846/21,Rua Renato Meira Lima,Tanque,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-31,S.A. 850/21,Rua Mal Jose Bevilaqua,Taquara,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-31,S.A. 851/21,Rua Edgard Werneck,Pechincha,Rio de Janeiro,Rede de Distribuição,8,2
+2021-03-31,S.A. 853/21,Rua Eliseu de Alvarenga,Olinda,Nilópolis,Rede de Distribuição,8,2
+2021-03-31,S.A. 855/21,Rua Sara,Santo Cristo,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-01,Am. 12229/21,Rua Ipiru,Cacuia - Ilha do Governador,Rio de Janeiro,Rede de Distribuição,6,2
+2021-04-01,S.A. 860/21,Rua Manoel Antunes Carvalho,Cosmos,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-01,S.A. 864/21,Rua Pintor Oswaldo Teixeira,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,6,2
+2021-04-01,S.A. 865/21,Rua João Bolonini,Campo Grande,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-01,S.A. 870/21,Rua Miraima,Itanhangá,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-01,S.A. 872/21,Rua Bartira,Colégio,Rio de Janeiro,Rede de Distribuição,2,2
+2021-04-01,S.A. 882/21,Rua Aristides Caire,Méier,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-01,S.A. 883/21,Rua Guilherme Marconi,Bairro de Fátima,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-02,S.A. 838/21,Rua João Fernandes Neto,Belf Roxo,Belford Roxo,Rede de Distribuição,4,1
+2021-04-02,S.A. 886/21,Rua Marechal Falcão da Frota,Realengo,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-02,S.A. 894/21,Rua Professor Abelardo Lobo,Lagoa,Rio de Janeiro,Rede de Distribuição,6,2
+2021-04-02,S.A. 897/21,Rua Roldão Gonçales,Nossa Senhora de Fátima,Nilópolis,Rede de Distribuição,8,2
+2021-04-04,S.A. 896/21,Rua Carlos Xavier,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,3,2
+2021-04-04,S.A. 899/21,Estrada Guanumbi,Freguesia,Rio de Janeiro,Rede de Distribuição,3,2
+2021-04-05,S.A. 232/21,Rua Lopo Diniz,Vicente de Carvalho,Rio de Janeiro,Rede de Distribuição,4,2
+2021-04-05,S.A. 820/21,Rua Moreira,Abolição,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-05,S.A. 825/21,Rua Palotina,Vila Valqueire,Rio de Janeiro,Rede de Distribuição,4,1
+2021-04-05,S.A. 898/21,Rua Rosário Oeste,Vila Valqueire,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-06,S.A. 931/21,Avenida das Américas,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,4,2
+2021-04-06,S.A. 927/21,Rua Doutor Manuel Cotrin,Riachuelo,Rio de Janeiro,Rede de Distribuição,3,2
+2021-04-06,S.A. 812/21,Rua Celidônia,Guaratiba,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-06,S.A. 835/21,Rua Doutor Walter Guimarães de Moraes,Recreio,Rio de Janeiro,Rede de Distribuição,8,2
+2021-04-08,S.A. 973/21,Rua Oswaldo Lussac,Pechincha,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-08,S.A. 975/21,Av. Antenor Navarro,Brás de Pina,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-08,S.A. 997/21,Estrada do Cacuia,Cacuia,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-08,S.A. 921/21,Av. Benjamim Pinto Dias,Belford Roxo,Belford Roxo,Rede de Distribuição,2,1
+2021-04-08,S.A. 972/21,Rua Guaiaquil,Cachambi,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-08,S.A. 749/21,Rua Casemiro de Abreu,Pilares,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-08,S.A. 992/21,Praça Condessa Paulo de Frontin,Rio Comprido,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-08,S.A. 971/21,Rua Aristides Caire,Méier,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 962/21,Avenida Dom Helder Câmara,Cascadura,Rio de Janeiro,Rede de Distribuição,4,2
+2021-04-09,S.A. 893/21,Rua Carlos Xavier,Oswaldo Cruz,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 726/21,Rua Jornalista Henrique Cordeiro,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 908/21,Avenida Vice Presidente José Alencar,Jacarepaguá,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 859/21,Rua Sapopemba,Bento Ribeiro,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 1068/21,Rua Paulinia,Bras de Pina,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 963/21,Rua Petrolândia,Vista Alegre,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-09,S.A. 827/21,Estrada da Posse,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-10,S.A. 1022/21,Estrada do Mato Alto,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-10,S.A. 1056/21,Rua Prof. Abigail Pires,Cosmos,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-10,S.A. 1069/21,Rua Pedra do Sino,Paciência,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-10,S.A. 664/21,Rua Paula Brito,Andaraí,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-10,S.A. 707/21,Rua Dona Maria,Vila Isabel,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-10,S.A. 970/21,Rua Barão de Mesquita,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-11,S.A. 813/21,Rua Chui,Madureira,Rio de Janeiro,Rede de Distribuição,3,2
+2021-04-12,S.A. 1046/21,Rua Caviana,Taquara,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-12,S.A. 1059/21,Avenida João Luis Alves,Urca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-12,S.A. 1072/21,Estrada do Tindiba,Pechincha,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-12,S.A. 1074/21,Rua Senador Vergueiro,Flamengo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-12,S.A. 1075/21,Rua Pinto Teles,Praça Seca,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-12,S.A. 884/21,Rua Voluntários da Pátria,Botafogo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-12,S.A. 922/21,Rua Gal. Polidoro,Botafogo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-12,S.A. 948/21,Praia do Flamengo,Flamengo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-13,S.A. 1035/21,Praça Tenente Coronel Siqueira,Urca,Rio de Janeiro,Rede de Distribuição,2,2
+2021-04-13,S.A. 1090/21,Avenida Pasteur,Botafogo,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-13,S.A. 1110/21,Rua Grajaú,Grajaú,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-13,S.A. 848/21,Rua Pinto Guedes,Tijuca,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-13,S.A. 877/21,Rua General Espírito Santo Cardoso,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-13,S.A. 911/21,Rua Siqueira Campos,Copacabana,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-13,Am. 12621/21,Rua Garibalde,Jardim 25 Agosto,Duque de Caxias,Rede de Distribuição,2,1
+2021-04-13,S.A. 1108/21,Avenida Nossa Senhora das Graças,Km 32,Nova Iguaçu,Rede de Distribuição,2,1
+2021-04-13,S.A. 1117/21,Rua Professor Gabizo,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-13,S.A. 785/21,Rua Xavier Pinheiro,Vigário Geral,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-13,S.A. 969/21,Rua Frei Leandro,Lagoa,Rio de Janeiro,Rede de Distribuição,4,2
+2021-04-14,Am. 13179/21,Rua Licino Cardoso,São Francisco Xavier,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-14,S.A. 1065/21,Rua Barão de Salusse,Centro,Mesquita,Rede de Distribuição,3,1
+2021-04-14,S.A. 1077/21,Rua Marechal Jardim - Reservatório Pedregulho - Entrada,Benfica,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-14,S.A. 1089/21,Estrada da Covanca - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-14,S.A. 700/21,Rua Conde de Bonfim,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-14,S.A. 844/21,Rua Capitão Paulo,Anchieta,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-14,S.A. 882/21,Rua Aristides Caire,Meier,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-14,S.A. 928/21,Rua Conde de Bonfim,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-15,S.A. 1053/21,Travessa da Confiança,Vila da Penha,Rio de Janeiro,Rede de Distribuição,3,2
+2021-04-15,S.A. 1078/21,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2021-04-15,S.A. 1083/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2021-04-15,S.A. 1084/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,2,1
+2021-04-15,S.A. 1085/21,Avenida Euclides da Cunha - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,1,1
+2021-04-15,S.A. 1098/21,Avenida Monsenhor Félix,Vaz Lobo,Rio de Janeiro,Rede de Distribuição,4,2
+2021-04-15,S.A. 1129/21,Rua Visconde de Itamarati,Maracanã,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-15,S.A. 1134/21,Rua Rego Lopes,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-15,S.A. 1136/21,Rua Porto Príncipe,Vigário Geral,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-15,S.A. 1138/21,Rua Carlina,Olaria,Rio de Janeiro,Rede de Distribuição,3,2
+2021-04-15,S.A. 1144/21,Rua Catete,Catete,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-15,S.A. 1149/21,Rua Maria Amalia,Belford Roxo,Belford Roxo,Rede de Distribuição,3,1
+2021-04-15,S.A. 942/21,Rua dos Civilizados,Jardim Itaipu,Belford Roxo,Rede de Distribuição,3,1
+2021-04-15,S.A. 1078/21,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,2,1
+2021-04-15,S.A. 838/21,Rua João Fernandes Neto,Belford Roxo,Belford Roxo,Rede de Distribuição,2,1
+2021-04-16,S.A. 1124/21,Rua Pedro Bolato,Barra da Tijuca,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-16,S.A. 1147/21,Rua Luis Vargas,Piedade,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-16,S.A. 1055/21,Rua Lopes Quintas,Jardim Botânico,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-16,S.A. 1071/21,Rua João Afonso,Humaitá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-16,S.A. 1080/21,Avenida Edson Passos - Reservatório Caixa Nova - Entrada,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-16,S.A. 1080/21,Avenida Edson Passos - Reservatório Caixa Nova - Saída,Alto da Boa Vista,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-16,S.A. 1141/21,Rua Aperibe,Taquara,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-16,S.A. 757/21,Rua Francisco Belisário,Santa Cruz,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-16,S.A. 852/21,Rua 56 Ac Av Cesario de Melo,Santa Cruz,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-18,S.A. 1097/21,Rua Biquinhas,Campo Grande,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-18,S.A. 743/21,Rua Francisco Teotonio,Senador Camará,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-18,S.A. 811/21,Rua das Amendoeiras,Cosmos,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-19,Am. 14103/21,Rua Jorge Yunes,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-19,Am. 14303/21,Av. Areia Branca,Santa Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-19,S.A. 1061/21,Rua Prof. Souza Moreira,Inhoaíba,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-19,S.A. 1100/21,Av. Tim Maia,Recreio dos Bandeirantes,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-20,Am. 14385/21,Estrada Senador Salgado Filho,Olinda,Nilópolis,Rede de Distribuição,2,1
+2021-04-20,S.A. 1086/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Circular,Duque de Caxias,Macro Distribuição,2,1
+2021-04-20,S.A. 1087/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Circular,Duque de Caxias,Macro Distribuição,3,1
+2021-04-20,S.A. 1093/21,Rua Coronel Moreira Cesar,Pavuna,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-20,S.A. 1139/21,Rua Antônio Basílio,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-20,S.A. 1143/21,Rua Silva Pinto,Vila Isabel,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-20,S.A. 1146/21,Rua General Roca,Tijuca,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-20,S.A. 936/21,Rua Sidney Miller,Ilha do Govenador,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-21,S.A. 973/21,Rua Oswaldo Lussac,Pechincha,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-21,S.A. 1082/21,Estrada Carlos Sampaio - Abastecimento Carros-Pipa,Jardim Queimados,Queimados,Macro Distribuição,3,1
+2021-04-22,S.A. 974/21,Rua Fernandes de Gusmão,Irajá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-22,S.A. 1076/21,Rua Pernambuco,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,4,1
+2021-04-22,S.A. 1167/21,Rua Benedito Alves,Campo Grande,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-22,S.A. 1090/21,Avenida Pasteur,Botafogo,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-23,S.A. 813/21,Rua Chuí,Madureira,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-23,S.A. 882/21,Rua Aristides Caire,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-23,S.A. 898/21,Rua Rosa Oeste,Vila Valqueire,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-23,S.A. 749/21,Rua Casemiro de Abreu,Pilares,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-24,14884/21,Rua Maria Lucinda,Centro,São João de Meriti,Rede de Distribuição,3,1
+2021-04-25,S.A. 1183/21,Rua Araça,Ricardo de Albuquerque,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-25,S.A. 1185/21,Rua Urucuia,Vila Valqueire,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-25,S.A. 1187/21,Rua Pedro Teles,Praça Seca,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-26,Am. 14801/21,Rua Barão da Torre,Ipanema,Rio de Janeiro,Rede de Distribuição,2,1
+2021-04-26,S.A. 1192/21,Rua Humaitá,Humaitá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-26,S.A. 965/21,Rua Mario Barbosa,Campo Grande,Rio de Janeiro,Rede de Distribuição,3,1
+2021-04-27,S.A. 1079/21,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-27,S.A. 1079/21,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-28,S.A. 1202/21,Rua Paz de Ciqueira,Engenho Novo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-28,Am. 12264/21,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,2,1
+2021-04-29,S.A. 1207/21,Rua Edgard Werneck,Pechincha,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-29,S.A. 638/21,Rua Espinosa Parque Curicica,Curicica,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-29,S.A. 1156/21,Rua Evangelina,Olaria,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-29,S.A. 1178/21,Estrada do Dendê,Moneró,Rio de Janeiro,Rede de Distribuição,1,1
+2021-04-30,Am. 16031/21,Avenida Doutor Salles Teixeira,Aero Clube,Nova Iguaçu,Rede de Distribuição,1,1
+2021-05-02,S.A. 1100/21,Avenida Tim Maia,Recreio,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-03,Am. 15330/21,Rua Cordovil,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-03,Am. 16216/21,Rua Governo,Realengo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-03,Am. 16296/21,Rua General Olívio Uzeda,Curicica,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-04,S.A. 1212/21,Avenida Maracanã,Tijuca,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-04,Am. 16414/21,Rua Garibalde,Jardim 25 de Agosto,Duque de Caxias,Rede de Distribuição,1,1
+2021-05-04,Am. 16390/21,Rua Coronel Franca Leite,Cabral,Nilópolis,Rede de Distribuição,1,1
+2021-05-05,Am. 16763/21,Largo de Benfica,Benfica,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-05,Am. 16726/21,Estrada do Pré,Sen. Vasconcelos,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-06,S.A. 1219/21,Rua Meira de Vasconcelos,Grajaú,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-06,S.A. 1238/21,Estrada Santa Barbara,Miguel Couto,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-07,S.A. 1239/21,Rua Mário Pederneiras,Humaitá,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-07,S.A. 1242/21,Rua Florianópolis,Praça Seca,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-08,S.A. 1226/21,Rua Delfim Moreira - Reservatório São Matheus - Entrada,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2021-05-08,S.A. 1226/21,Rua Delfim Moreira - Reservatório São Matheus - Saída,São Matheus,São João de Meriti,Macro Distribuição,1,1
+2021-05-08,S.A. 1233/21,Avenida Euclides da Cunha - Abastecimento Carros-Pipa,Vila São João,São João de Meriti,Macro Distribuição,1,1
+2021-05-08,S.A. 1237/21,Estrada da Covanca - Abastecimento Carros-Pipa,Tanque,Rio de Janeiro,Macro Distribuição,1,1
+2021-05-08,S.A. 1244/21,Rua Adalberto Tanajura,Anchieta,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-09,S.A. 1224/21,Rua Pernambuco - Reservatório Engenho de Dentro - Entrada,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2021-05-09,S.A. 1224/21,Rua Pernambuco - Reservatório Engenho de Dentro - Saída,Engenho de Dentro,Rio de Janeiro,Macro Distribuição,1,1
+2021-05-11,S.A. 343/21,Rua Prefeito João Felipe,Santa Teresa,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-11,1234/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 1,Circular,Duque de Caxias,Macro Distribuição,1,1
+2021-05-11,S.A. 1235/21,Rua Capitão Damasceno  - Abastecimento Carros-Pipa 2,Circular,Duque de Caxias,Macro Distribuição,1,1
+2021-05-11,Am. 17420/21,Praça Jacarandás,Lagoa,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-11,S.A. 1245/21,Rua João Epifanio da Silva,Campo Grande,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-11,S.A. 1213/21,Rua Dona Claudina,Méier,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-11,S.A. 1263/21,Rua André Rocha,Taquara,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-11,Am. 17130/21,Rua Luiz Silva,Abolição,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-13,S.A. 1254/21,Rua Orestes,Santo Cristo,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-13,S.A. 1231/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2021-05-13,S.A. 1232/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
+2021-05-13,S.A. 644/21 A,Rua das Magueiras,Piedade,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-14,S.A. 1265/21,Rua Cândido Benício,Campinho,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-17,S.A. 1268/21,Rua Albertino Araújo,Penha Circular,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-17,Am. 18242/21,Avenida Doutor Arruda Negreiros,Centro,São João de Meriti,Rede de Distribuição,1,1
+2021-05-17,Am. 18110/21,Rua Estevão Carvalho,Guadalupe,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-17,S.A. 1218/21,Rua Januário José P Oliveira,Recreio Bandeirantes,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-17,Am. 18276/21,Rua Prado,Santa Cruz,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-18,Am. 18366/21,Rua Dom Silverio,Olavo Bilac,Duque de Caxias,Rede de Distribuição,1,1
+2021-05-18,S.A. 1227/21,Rua Pacheco Leão - Reservatório Macacos - Entrada,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2021-05-18,S.A. 1227/21,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
+2021-05-18,S.A. 1230/21,Estrada Carlos Sampaio,Jardim Queimados,Rio de Janeiro,Macro Distribuição,1,1
+2021-05-18,Am. 18395/21,Rua Luiz Silva,Abolição,Rio de Janeiro,Rede de Distribuição,1,1
