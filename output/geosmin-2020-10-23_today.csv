@@ -197,3 +197,8 @@ date,capture,veta,neta,is_capture_ub,is_veta_ub,is_neta_ub
 2021-05-12,0.01,0.01,0.01,True,True,True
 2021-05-13,0.01,0.01,0.01,True,True,True
 2021-05-14,0.01,0.01,0.01,True,True,True
+2021-05-15,0.01,0.01,0.01,True,True,True
+2021-05-16,0.01,0.01,0.01,True,True,True
+2021-05-17,0.014,0.01,0.01,False,True,True
+2021-05-18,0.01,0.01,0.01,True,True,True
+2021-05-19,0.01,0.01,0.01,True,True,True
