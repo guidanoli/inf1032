@@ -1,3 +1,4 @@
+python-Levenshtein==0.12.2
 ipympl==0.7.0
 matplotlib==3.4.2
 notebook==6.3.0
