@@ -1288,7 +1288,7 @@ date,code,address,neighbourhood,municipality,collection-point,taste,odor
 2021-05-13,S.A. 1254/21,Rua Orestes,Santo Cristo,Rio de Janeiro,Rede de Distribuição,1,1
 2021-05-13,S.A. 1231/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 8,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
 2021-05-13,S.A. 1232/21,Avenida Benjamim Pinto Dias - Abastecimento Carros-Pipa 7,Belford Roxo,Belford Roxo,Macro Distribuição,1,1
-2021-05-13,S.A. 644/21 A,Rua das Magueiras,Piedade,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-13,S.A. 644/21,Rua das Magueiras,Piedade,Rio de Janeiro,Rede de Distribuição,1,1
 2021-05-14,S.A. 1265/21,Rua Cândido Benício,Campinho,Rio de Janeiro,Rede de Distribuição,1,1
 2021-05-17,S.A. 1268/21,Rua Albertino Araújo,Penha Circular,Rio de Janeiro,Rede de Distribuição,1,1
 2021-05-17,Am. 18242/21,Avenida Doutor Arruda Negreiros,Centro,São João de Meriti,Rede de Distribuição,1,1
@@ -1300,3 +1300,18 @@ date,code,address,neighbourhood,municipality,collection-point,taste,odor
 2021-05-18,S.A. 1227/21,Rua Pacheco Leão - Reservatório Macacos - Saída,Jardim Botânico,Rio de Janeiro,Macro Distribuição,1,1
 2021-05-18,S.A. 1230/21,Estrada Carlos Sampaio,Jardim Queimados,Rio de Janeiro,Macro Distribuição,1,1
 2021-05-18,Am. 18395/21,Rua Luiz Silva,Abolição,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-19,S.A. 1264/21A,Rua Carlos Henrique,Rosa dos Ventos,Nova Iguaçu,Rede de Distribuição,1,1
+2021-05-20,S.A. 1275/21,Rua Evita,Centro,Nilópolis,Rede de Distribuição,1,1
+2021-05-20,S.A. 1252/21,Rua São Luiz,Centro,Nilópolis,Rede de Distribuição,1,1
+2021-05-20,Am. 18792/21,Rua Barão da Torre,Ipanema,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-21,Am. 18904/21,Rua Benjamin Constant,Glória,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-21,S.A. 1270/21,Rua Quito,Penha,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-21,Am. 17602/21,Rua Tinhare,Parada de Lucas,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-22,S.A. 1122/21,Rua Itatinga,Paciência,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-23,Am. 18951/21,Rua José Marques,Belford Roxo,Belford Roxo,Rede de Distribuição,1,1
+2021-05-23,S.A. 1077/21,Rua Mal. Jardim,Benfica,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-24,S.A. 997/20,Rua Benedito Ultra,Vilar dos Teles,São João de Meriti,Rede de Distribuição,1,1
+2021-05-24,S.A. 1291/21,Rua Catete,Catete,Rio de Janeiro,Rede de Distribuição,1,1
+2021-05-27,S.A. 1307/21,Rua Benedito Ultra,Vilar dos Teles,São João de Meriti,Rede de Distribuição,1,1
+2021-05-28,Am. 1264/21,Rua Carlos Henrique,Rosa dos Ventos,Nova Iguaçu,Rede de Distribuição,1,1
+2021-05-29,S.A. 1315/21,Alameda das Orquídeas,Bairro de Santa Sofia,Seropédica,Rede de Distribuição,1,1
