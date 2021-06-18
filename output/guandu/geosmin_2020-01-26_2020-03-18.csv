@@ -1,4 +1,4 @@
-date,capture,etas,is_capture_ub,is_etas_ub
+date,capture_geosmin,etas_geosmin,is_capture_geosmin_ub,is_etas_geosmin_ub
 2020-01-26,1.5,0.82,False,False
 2020-01-27,1.2,0.431,False,False
 2020-01-28,1.96,0.758,False,False
