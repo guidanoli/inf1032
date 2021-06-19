@@ -3,6 +3,7 @@ afonso_viseu,Afonso Viseu
 alto_de_sao_jose,Alto de São José
 andrade_costa,Andrade Costa
 andrade_pinto,Andrade Pinto
+angra_dos_reis_mangaratiba,Angra Dos Reis/Mangaratiba
 anta,Anta
 aperibe,Aperibé
 arrozal,Arrozal
@@ -10,27 +11,39 @@ atafona,Atafona
 avelar,Avelar
 banquete,Banquete
 barcelos,Barcelos
+barra_do_pirai,Barra Do Piraí
 barra_do_acu,Barra do Açu
 barra_de_itabapoana,Barra de Itabapoana
+batalha_quininha,Batalha/Quininha
 beija_flor,Beija-Flor
+belford_roxo_duque_de_caxias_nova_iguacu,Belford Roxo/Duque De Caxias/Nova Iguaçu
+boa_esperanca,Boa Esperança
 bom_jardim,Bom Jardim
 bom_jesus_do_itabapoana,Bom Jesus do Itabapoana
 bonsucesso,Bonsucesso
+brasilio,Brasilio
 cabo_severino,Cabo Severino
 cacaria,Cacaria
+cachoeiras_de_macacu_tangua,Cachoeiras De Macacu/Tanguá
 cajueiro_degredo,Cajueiro/Degredo
 cambuci,Cambuci
+camorim,Camorim
 carabucu,Carabuçú
 carapebus,Carapebus
-cardoso_moreira,Cardoso Moreira
+cardoso_moreira_italva,Cardoso Moreira/Italva
 cascata_dos_amores,Cascata dos Amores
 cimento_paraiso,Cimento Paraíso
 conrado,Conrado
+convento,Convento
 cordeiro_cantagado,Cordeiro/Cantagado
 coronel_teixeira_batatal,Coronel Teixeira/Batatal
 demetrio_ribeiro,Demétrio Ribeiro
-dois_murinhos,Dois Murinhos
+dois_murrinhos,Dois Murrinhos
 duas_barras,Duas Barras
+duque_de_caxias,Duque De Caxias
+engenheiro_paulo_de_frontin,Engenheiro Paulo De Frontin
+engo_paulo_de_frontin,Engº Paulo De Frontin
+estrada_nova,Estrada Nova
 euclidelandia,Euclidelândia
 fazenda_da_grama,Fazenda da Grama
 fabrica_brasil,Fábrica Brasil
@@ -39,15 +52,16 @@ grussai,Grussaí
 guandu,Guandú
 gavea_pequena,Gávea Pequena
 ipiabas,Ipiabas
-itabapoana,Itabapoana
+itaborai,Itaboraí
+itaguai_paracambi_seropedica,Itaguaí/Paracambi/Seropédica
 itakamosi,Itakamosi
-italva,Italva
 itaocara,Itaocara
 itaperuna,Itaperuna
 itingussu,Itingussu
 jacaranda,Jacarandá
 jaguarembe,Jaguarembé
 jamapara,Jamapará
+japeri_queimados,Japeri/Queimados
 japuiba,Japuíba
 juparana,Juparanã
 lajes_do_muriae,Lajes do Muriaé
@@ -56,14 +70,17 @@ imunana_laranjal,Imunana Laranjal
 lidice,Lídice
 macae,Macaé
 macuco,Macuco
+mage,Magé
+mangaratiba,Mangaratiba
 manilha,Manilha
-mantiquira,Mantiquira
 marambaia,Marambaia
 marica,Maricá
 massambara,Massambará
+mantiquira,Mantiquira
 mazomba,Mazomba
 mendanha,Mendanha
-miguel_pereira,Miguel Pereira
+mesquita_nilopolis_rio_de_janeiro_sao_joao_do_meriti,Mesquita/Nilópolis/Rio De Janeiro/São João Do Meriti
+miguel_pereira_paty_do_alferes,Miguel Pereira/Paty Do Alferes
 miracema,Miracema
 monnerat,Monnerat
 monte_verde,Monte Verde
@@ -72,11 +89,14 @@ morro_paraiso,Morro Paraíso
 muriqui,Muriqui
 natividade,Natividade
 nelson_carneiro,Nelson Carneiro
+nilopolis,Nilópolis
 nossa_senhora_aparecida,Nossa Senhora Aparecida
+nova_iguacu,Nova Iguaçu
 osorio,Osório
-ourania,Ourania
+ouranea,Ourânea
 paineiras,Paineiras
 palmas_paulo_de_frontin,Palmas Paulo De Frontin
+paracambi,Paracambi
 parapeuna,Parapeúna
 paraiba_do_sul,Paraíba do Sul
 paraiso,Paraíso
@@ -98,13 +118,16 @@ poco_manoel_ribeiro,Poço Manoel Ribeiro
 poco_do_marques,Poço do Marquês
 praca_joao_pessoa,Praça João Pessoa
 pureza,Pureza
+queimados,Queimados
 quininha_batalha,Quininha Batalha
 quissama,Quissamã
 ribeirao_das_lajes,Ribeirão das Lajes
 rio_bonito,Rio Bonito
 rio_claro,Rio Claro
+casemiro_de_abreu__barra_de_sao_joao__rio_das_ostras,Casemiro De Abreu (Barra De São João)/Rio Das Ostras
+rio_de_janeiro,Rio De Janeiro
 rio_dourado,Rio Dourado
-rio_d_ouro,Rio D'Ouro
+rio_de_ouro,Rio De Ouro
 rio_grande,Rio Grande
 rio_preto,Rio Preto
 rio_souza,Rio Souza
@@ -115,24 +138,32 @@ santa_maria_madalena,Santa Maria Madalena
 santa_rita_da_floresta,Santa Rita da Floresta
 santanesia,Santanésia
 santo_aleixo,Santo Aleixo
+santo_antonio_de_padua,Santo Antônio De Pádua
 sapucaia,Sapucaia
 saudoso,Saudoso
+seropedica,Seropédica
 serra_do_piloto,Serra do Piloto
 sistema_parque_santana,Sistema Parque Santana
 sistema_sao_pedro,Sistema São Pedro
 sumidouro,Sumidouro
 surui,Suruí
 sao_fidelis,São Fidélis
-sao_joao_da_barra,São João da Barra
+sao_francisco_do_itabapoana,São Francisco Do Itabapoana
+ilha_de_paqueta_sao_goncalo,Ilha De Paquetá/São Gonçalo
+sao_joaquim,São Joaquim
+sao_jose_do_ribeirao,São José Do Ribeirão
 sao_jose_de_uba,São José de Ubá
+sao_joao_de_meriti,São João De Meriti
+sao_joao_da_barra,São João da Barra
 sao_joao_do_paraiso,São João do Paraiso
 sao_pedro,São Pedro
-sao_sebastiao_do_alto,São Sebastião do Alto
 sao_sebastiao_do_paraiba,São Sebastião do Paraíba
+sao_sebastiao_do_alto,São Sebastião do Alto
 sao_sebastiao_dos_ferreiros,São Sebastião dos Ferreiros
 tachas,Tachas
 tangua,Tanguá
 taylor,Taylor
+teresopolis,Teresópolis
 tingua,Tinguá
 trajano_de_morais,Trajano de Morais
 triunfo,Triunfo
