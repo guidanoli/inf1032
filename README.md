@@ -10,3 +10,7 @@ Python >= 3.5
 python -m pip install -r requirements.txt
 python -m jupyter notebook
 ```
+
+## Slides
+
+See [slides.pdf](slides.pdf) (Portuguese).
